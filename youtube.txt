@@ -9,6 +9,8 @@ r1.sn-bg07dnss.googlevideo.com
 r1---sn-bg07dnss.googlevideo.com
 r1.sn-bg07dnzs.googlevideo.com
 r1---sn-bg07dnzs.googlevideo.com
+r1.sn-bg0eznls.googlevideo.com
+r1---sn-bg0eznls.googlevideo.com
 r1.sn-gpv7dn7e.googlevideo.com
 r1---sn-gpv7dn7e.googlevideo.com
 r1.sn-gpv7enek.googlevideo.com
