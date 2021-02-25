@@ -64,6 +64,8 @@ r2.sn-hp57kn6s.googlevideo.com
 r2---sn-hp57kn6s.googlevideo.com
 r2.sn-hp57ynel.googlevideo.com
 r2---sn-hp57ynel.googlevideo.com
+r2.sn-uphcg51pa-bg0s.googlevideo.com
+r2.sn-uphcg51pa-cnce.googlevideo.com
 r3.sn-a5msen7s.googlevideo.com
 r3---sn-a5msen7s.googlevideo.com
 r3---sn-aigl6n7d.googlevideo.com
