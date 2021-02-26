@@ -127,6 +127,8 @@ r4.sn-bg0eznle.googlevideo.com
 r4---sn-bg0eznle.googlevideo.com
 r4.sn-bg0eznls.googlevideo.com
 r4---sn-bg0eznls.googlevideo.com
+r4.sn-bg0eznlz.googlevideo.com
+r4---sn-bg0eznlz.googlevideo.com
 r4.sn-gpv7ener.googlevideo.com
 r4---sn-gpv7ener.googlevideo.com
 r4.sn-gpv7eney.googlevideo.com
