@@ -119,6 +119,8 @@ r4.sn-bg07dn6k.googlevideo.com
 r4---sn-bg07dn6k.googlevideo.com
 r4.sn-bg07dn6r.googlevideo.com
 r4---sn-bg07dn6r.googlevideo.com
+r4.sn-bg07dnss.googlevideo.com
+r4---sn-bg07dnss.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
 r4---sn-bg0ezn7e.googlevideo.com
 r4.sn-bg0ezn7y.googlevideo.com
