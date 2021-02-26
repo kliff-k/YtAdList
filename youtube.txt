@@ -133,12 +133,8 @@ r4.sn-gpv7ener.googlevideo.com
 r4---sn-gpv7ener.googlevideo.com
 r4.sn-gpv7eney.googlevideo.com
 r4---sn-gpv7eney.googlevideo.com
-r4.sn-hp57yne7.googlevideo.com
-r4---sn-hp57yne7.googlevideo.com
 r4.sn-nv0uiuxji-2v5s.googlevideo.com
 r4.sn-uphcg51pa-bg0e.googlevideo.com
-r4.sn-vgqs7nl7.googlevideo.com
-r4---sn-vgqs7nl7.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-b8u-cncl.googlevideo.com
