@@ -76,6 +76,8 @@ r4.sn-b8u-jfcr.googlevideo.com
 r4.sn-b8u-jfcz.googlevideo.com
 r4.sn-bg07dn6k.googlevideo.com
 r4---sn-bg07dn6k.googlevideo.com
+r4.sn-bg07dnsl.googlevideo.com
+r4---sn-bg07dnsl.googlevideo.com
 r4.sn-bg07dnss.googlevideo.com
 r4---sn-bg07dnss.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
