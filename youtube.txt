@@ -38,6 +38,8 @@ r1.sn-gpv7ener.googlevideo.com
 r1---sn-gpv7ener.googlevideo.com
 r1.sn-x1x7zn7l.googlevideo.com
 r1---sn-x1x7zn7l.googlevideo.com
+r1.sn-x1x7zn7s.googlevideo.com
+r1---sn-x1x7zn7s.googlevideo.com
 r2.sn-8p8v-cncl.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
 r2.sn-b8u-cnce.googlevideo.com
