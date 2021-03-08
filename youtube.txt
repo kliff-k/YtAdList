@@ -92,6 +92,8 @@ r4.sn-b8u-jfcl.googlevideo.com
 r4.sn-b8u-jfcz.googlevideo.com
 r4.sn-bg07dn6k.googlevideo.com
 r4---sn-bg07dn6k.googlevideo.com
+r4.sn-bg07dn6r.googlevideo.com
+r4---sn-bg07dn6r.googlevideo.com
 r4.sn-bg07dnsl.googlevideo.com
 r4---sn-bg07dnsl.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
