@@ -82,6 +82,8 @@ r5.sn-bg07dnsl.googlevideo.com
 r5---sn-bg07dnsl.googlevideo.com
 r5.sn-bg0eznle.googlevideo.com
 r5---sn-bg0eznle.googlevideo.com
+r5.sn-bg0eznls.googlevideo.com
+r5---sn-bg0eznls.googlevideo.com
 r5.sn-gpv7dn7k.googlevideo.com
 r5---sn-gpv7dn7k.googlevideo.com
 r5---sn-q4fl6nsd.googlevideo.com
