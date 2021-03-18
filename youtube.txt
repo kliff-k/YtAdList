@@ -43,6 +43,8 @@ r2.sn-gpv7dn7k.googlevideo.com
 r2---sn-gpv7dn7k.googlevideo.com
 r2.sn-gpv7dn7s.googlevideo.com
 r2---sn-gpv7dn7s.googlevideo.com
+r2.sn-x1x7zn7s.googlevideo.com
+r2---sn-x1x7zn7s.googlevideo.com
 r3.sn-ab5szne7.googlevideo.com
 r3---sn-ab5szne7.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
