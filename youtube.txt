@@ -90,9 +90,12 @@ r3.sn-b8u-cncl.googlevideo.com
 r3.sn-b8u-cncs.googlevideo.com
 r3.sn-b8u-cncz.googlevideo.com
 r3.sn-b8u-jfcl.googlevideo.com
+r3.sn-b8u-jfcr.googlevideo.com
 r3.sn-b8u-jfcz.googlevideo.com
 r3.sn-bg07dn66.googlevideo.com
 r3---sn-bg07dn66.googlevideo.com
+r3.sn-bg07dn6d.googlevideo.com
+r3---sn-bg07dn6d.googlevideo.com
 r3.sn-bg07dn6k.googlevideo.com
 r3---sn-bg07dn6k.googlevideo.com
 r3.sn-bg07dn6r.googlevideo.com
