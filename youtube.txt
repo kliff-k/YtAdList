@@ -164,11 +164,14 @@ r4.sn-vgqskns7.googlevideo.com
 r4---sn-vgqskns7.googlevideo.com
 r4.sn-x1x7zn7e.googlevideo.com
 r4---sn-x1x7zn7e.googlevideo.com
+r5.sn-4g5edned.googlevideo.com
+r5---sn-4g5edned.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-b8u-cncl.googlevideo.com
 r5.sn-b8u-jfc6.googlevideo.com
 r5.sn-b8u-jfcd.googlevideo.com
+r5.sn-b8u-jfcr.googlevideo.com
 r5.sn-b8u-jfcs.googlevideo.com
 r5.sn-b8u-jfcy.googlevideo.com
 r5.sn-bg07dn66.googlevideo.com
