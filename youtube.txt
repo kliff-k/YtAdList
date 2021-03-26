@@ -95,8 +95,6 @@ r3.sn-b8u-jfc6.googlevideo.com
 r3.sn-b8u-jfcl.googlevideo.com
 r3.sn-b8u-jfcr.googlevideo.com
 r3.sn-b8u-jfcz.googlevideo.com
-r3.sn-bg07dn66.googlevideo.com
-r3---sn-bg07dn66.googlevideo.com
 r3.sn-bg07dn6d.googlevideo.com
 r3---sn-bg07dn6d.googlevideo.com
 r3.sn-bg07dn6k.googlevideo.com
