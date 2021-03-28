@@ -134,6 +134,8 @@ r4.sn-bg07dnsy.googlevideo.com
 r4---sn-bg07dnsy.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
 r4---sn-bg0ezn7e.googlevideo.com
+r4.sn-bg0ezn7l.googlevideo.com
+r4---sn-bg0ezn7l.googlevideo.com
 r4.sn-bg0ezn7s.googlevideo.com
 r4---sn-bg0ezn7s.googlevideo.com
 r4.sn-bg0ezne7.googlevideo.com
