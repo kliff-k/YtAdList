@@ -75,6 +75,8 @@ r3.sn-gpv7dned.googlevideo.com
 r3---sn-gpv7dned.googlevideo.com
 r3.sn-gpv7enek.googlevideo.com
 r3---sn-gpv7enek.googlevideo.com
+r3.sn-gpv7kn76.googlevideo.com
+r3---sn-gpv7kn76.googlevideo.com
 r3.sn-gpv7kn7d.googlevideo.com
 r3---sn-gpv7kn7d.googlevideo.com
 r3---sn-q4flrnee.googlevideo.com
