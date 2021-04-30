@@ -141,6 +141,8 @@ r4.sn-bg0ezne7.googlevideo.com
 r4---sn-bg0ezne7.googlevideo.com
 r4.sn-bg0eznek.googlevideo.com
 r4---sn-bg0eznek.googlevideo.com
+r4.sn-bg0eznll.googlevideo.com
+r4---sn-bg0eznll.googlevideo.com
 r4.sn-bg0eznlz.googlevideo.com
 r4---sn-bg0eznlz.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
