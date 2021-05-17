@@ -24,6 +24,8 @@ r2.sn-b8u-cncs.googlevideo.com
 r2.sn-b8u-cncz.googlevideo.com
 r2.sn-bg07dn66.googlevideo.com
 r2---sn-bg07dn66.googlevideo.com
+r2.sn-bg07dnsl.googlevideo.com
+r2---sn-bg07dnsl.googlevideo.com
 r2.sn-bg07dnsr.googlevideo.com
 r2---sn-bg07dnsr.googlevideo.com
 r2.sn-bg0ezn7z.googlevideo.com
