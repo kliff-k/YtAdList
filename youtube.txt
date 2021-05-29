@@ -120,6 +120,7 @@ r4---sn-bg0eznlz.googlevideo.com
 r4---sn-hp57knlr.googlevideo.com
 r4.sn-n4v7sne7.googlevideo.com
 r4---sn-n4v7sne7.googlevideo.com
+r5---sn-aigzrne7.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-b8u-cncl.googlevideo.com
