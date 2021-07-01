@@ -60,6 +60,8 @@ r3.sn-bg07dnsl.googlevideo.com
 r3---sn-bg07dnsl.googlevideo.com
 r3.sn-bg07dnss.googlevideo.com
 r3---sn-bg07dnss.googlevideo.com
+r3.sn-bg07dnze.googlevideo.com
+r3---sn-bg07dnze.googlevideo.com
 r3.sn-bg07dnzs.googlevideo.com
 r3---sn-bg07dnzs.googlevideo.com
 r3.sn-bg0ezn7e.googlevideo.com
