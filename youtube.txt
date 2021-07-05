@@ -14,6 +14,8 @@ r1.sn-bg07dnsr.googlevideo.com
 r1---sn-bg07dnsr.googlevideo.com
 r1.sn-bg07dnze.googlevideo.com
 r1---sn-bg07dnze.googlevideo.com
+r1.sn-bg07dnzl.googlevideo.com
+r1---sn-bg07dnzl.googlevideo.com
 r1.sn-bg0ezn7e.googlevideo.com
 r1---sn-bg0ezn7e.googlevideo.com
 r1.sn-bg0ezne7.googlevideo.com
@@ -37,6 +39,8 @@ r2---sn-bg07dn6l.googlevideo.com
 r2.sn-bg07dn6r.googlevideo.com
 r2---sn-bg07dn6r.googlevideo.com
 r2---sn-bg07dnss.googlevideo.com
+r2.sn-bg07dnz7.googlevideo.com
+r2---sn-bg07dnz7.googlevideo.com
 r2.sn-bg07dnzl.googlevideo.com
 r2---sn-bg07dnzl.googlevideo.com
 r2.sn-bg0ezn7y.googlevideo.com
