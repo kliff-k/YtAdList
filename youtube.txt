@@ -69,6 +69,8 @@ r3.sn-bg0ezn7l.googlevideo.com
 r3---sn-bg0ezn7l.googlevideo.com
 r3.sn-bg0ezn7s.googlevideo.com
 r3---sn-bg0ezn7s.googlevideo.com
+r3.sn-bg0ezn7z.googlevideo.com
+r3---sn-bg0ezn7z.googlevideo.com
 r3.sn-bg0ezne7.googlevideo.com
 r3---sn-bg0ezne7.googlevideo.com
 r3.sn-bg0eznek.googlevideo.com
