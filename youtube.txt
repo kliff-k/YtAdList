@@ -88,6 +88,8 @@ r4.sn-bg0ezn7s.googlevideo.com
 r4---sn-bg0ezn7s.googlevideo.com
 r4.sn-bg0ezn7z.googlevideo.com
 r4---sn-bg0ezn7z.googlevideo.com
+r4.sn-bg0eznlz.googlevideo.com
+r4---sn-bg0eznlz.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-b8u-cncl.googlevideo.com
