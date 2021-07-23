@@ -77,6 +77,8 @@ r3.sn-b8u-cncz.googlevideo.com
 r3.sn-b8u-jfcd.googlevideo.com
 r3.sn-bg07dn6d.googlevideo.com
 r3---sn-bg07dn6d.googlevideo.com
+r3.sn-bg07dn6r.googlevideo.com
+r3---sn-bg07dn6r.googlevideo.com
 r3.sn-bg07dnsl.googlevideo.com
 r3---sn-bg07dnsl.googlevideo.com
 r3.sn-bg07dnsr.googlevideo.com
