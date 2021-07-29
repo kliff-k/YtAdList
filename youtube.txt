@@ -7,6 +7,8 @@ r1.sn-bg07dn6r.googlevideo.com
 r1---sn-bg07dn6r.googlevideo.com
 r1.sn-bg0eznle.googlevideo.com
 r1---sn-bg0eznle.googlevideo.com
+r1.sn-n4v7sn7l.googlevideo.com
+r1---sn-n4v7sn7l.googlevideo.com
 r2.sn-8p8v-cnce.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
 r2.sn-b8u-cnce.googlevideo.com
