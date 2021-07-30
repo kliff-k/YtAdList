@@ -23,10 +23,14 @@ r2.sn-bg07dn66.googlevideo.com
 r2---sn-bg07dn66.googlevideo.com
 r2.sn-bg07dn6l.googlevideo.com
 r2---sn-bg07dn6l.googlevideo.com
+r2.sn-bg07dn6r.googlevideo.com
+r2---sn-bg07dn6r.googlevideo.com
 r2.sn-bg07dnsl.googlevideo.com
 r2---sn-bg07dnsl.googlevideo.com
 r2.sn-bg07dnss.googlevideo.com
 r2---sn-bg07dnss.googlevideo.com
+r2.sn-bg07dnz7.googlevideo.com
+r2---sn-bg07dnz7.googlevideo.com
 r2.sn-bg0ezn7l.googlevideo.com
 r2---sn-bg0ezn7l.googlevideo.com
 r2.sn-bg0ezn7s.googlevideo.com
