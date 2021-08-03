@@ -54,11 +54,14 @@ r4.sn-bg07dnzl.googlevideo.com
 r4---sn-bg07dnzl.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
 r4---sn-bg0ezn7e.googlevideo.com
+r4---sn-bg0ezn7s.googlevideo.com
 r4.sn-bg0eznle.googlevideo.com
 r4---sn-bg0eznle.googlevideo.com
 r4.sn-n4v7snl7.googlevideo.com
 r4---sn-n4v7snl7.googlevideo.com
 r4---sn-p5qs7ned.googlevideo.com
+r5.sn-4g5edned.googlevideo.com
+r5---sn-4g5edned.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-b8u-cncl.googlevideo.com
