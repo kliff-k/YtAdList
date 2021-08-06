@@ -39,6 +39,8 @@ r1.sn-bg0eznlz.googlevideo.com
 r1---sn-bg0eznlz.googlevideo.com
 r1.sn-p5qlsndk.googlevideo.com
 r1---sn-p5qlsndk.googlevideo.com
+r2.sn-a5meknll.googlevideo.com
+r2---sn-a5meknll.googlevideo.com
 r2.sn-a5meknsd.googlevideo.com
 r2---sn-a5meknsd.googlevideo.com
 r2.sn-a5meknzs.googlevideo.com
