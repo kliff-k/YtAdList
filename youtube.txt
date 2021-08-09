@@ -95,6 +95,7 @@ r5.sn-bg0eznle.googlevideo.com
 r5---sn-bg0eznle.googlevideo.com
 r5.sn-bg0eznll.googlevideo.com
 r5---sn-bg0eznll.googlevideo.com
+r5---sn-bg0eznls.googlevideo.com
 r5---sn-q4flrnld.googlevideo.com
 r6.sn-b8u-cnc6.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
