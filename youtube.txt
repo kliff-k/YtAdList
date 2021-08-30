@@ -101,6 +101,8 @@ r2.sn-gpv7kn76.googlevideo.com
 r2---sn-gpv7kn76.googlevideo.com
 r2.sn-hp57kn6y.googlevideo.com
 r2---sn-hp57kn6y.googlevideo.com
+r2.sn-p5qlsndr.googlevideo.com
+r2---sn-p5qlsndr.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
 r3.sn-b8u-cnce.googlevideo.com
 r3.sn-b8u-cncl.googlevideo.com
