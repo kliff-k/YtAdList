@@ -36,6 +36,7 @@ r2.sn-b8u-cncs.googlevideo.com
 r2.sn-b8u-cncz.googlevideo.com
 r2.sn-bg07dn6d.googlevideo.com
 r2---sn-bg07dn6d.googlevideo.com
+r2---sn-bg07dn6k.googlevideo.com
 r2.sn-bg07dn6r.googlevideo.com
 r2---sn-bg07dn6r.googlevideo.com
 r2.sn-bg07dnsl.googlevideo.com
