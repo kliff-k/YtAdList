@@ -73,6 +73,8 @@ r2.sn-bg0eznle.googlevideo.com
 r2---sn-bg0eznle.googlevideo.com
 r2.sn-bg0eznll.googlevideo.com
 r2---sn-bg0eznll.googlevideo.com
+r2.sn-bg0eznls.googlevideo.com
+r2---sn-bg0eznls.googlevideo.com
 r2.sn-bg0eznlz.googlevideo.com
 r2---sn-bg0eznlz.googlevideo.com
 r2---sn-q4fl6ne6.googlevideo.com
