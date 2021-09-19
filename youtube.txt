@@ -93,6 +93,8 @@ r4.sn-bg0ezn7y.googlevideo.com
 r4---sn-bg0ezn7y.googlevideo.com
 r4.sn-bg0ezne7.googlevideo.com
 r4---sn-bg0ezne7.googlevideo.com
+r4.sn-bg0eznek.googlevideo.com
+r4---sn-bg0eznek.googlevideo.com
 r4.sn-bg0eznls.googlevideo.com
 r4---sn-bg0eznls.googlevideo.com
 r4.sn-q4flrnl7.googlevideo.com
