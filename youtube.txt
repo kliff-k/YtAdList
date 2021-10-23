@@ -104,6 +104,8 @@ r4.sn-bg07dn6k.googlevideo.com
 r4---sn-bg07dn6k.googlevideo.com
 r4.sn-bg07dn6r.googlevideo.com
 r4---sn-bg07dn6r.googlevideo.com
+r4.sn-bg07dnsr.googlevideo.com
+r4---sn-bg07dnsr.googlevideo.com
 r4.sn-bg07dnss.googlevideo.com
 r4---sn-bg07dnss.googlevideo.com
 r4.sn-bg0ezn7e.googlevideo.com
