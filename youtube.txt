@@ -80,6 +80,8 @@ r3.sn-bg07dnkz.googlevideo.com
 r3---sn-bg07dnkz.googlevideo.com
 r3.sn-bg07dnr7.googlevideo.com
 r3---sn-bg07dnr7.googlevideo.com
+r3.sn-bg07dnsl.googlevideo.com
+r3---sn-bg07dnsl.googlevideo.com
 r3.sn-bg0ezn7l.googlevideo.com
 r3---sn-bg0ezn7l.googlevideo.com
 r3.sn-bg0ezn7s.googlevideo.com
