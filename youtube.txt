@@ -28,6 +28,8 @@ r1---sn-bg0eznls.googlevideo.com
 r1.sn-vgqsknek.googlevideo.com
 r1---sn-vgqsknek.googlevideo.com
 r2---sn-25ge7nsd.googlevideo.com
+r2.sn-4g5edndz.googlevideo.com
+r2---sn-4g5edndz.googlevideo.com
 r2.sn-a5meknzr.googlevideo.com
 r2---sn-a5meknzr.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
