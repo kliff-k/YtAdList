@@ -174,6 +174,8 @@ r4.sn-bg0eznek.googlevideo.com
 r4---sn-bg0eznek.googlevideo.com
 r4.sn-bg0eznle.googlevideo.com
 r4---sn-bg0eznle.googlevideo.com
+r4.sn-bg0eznlz.googlevideo.com
+r4---sn-bg0eznlz.googlevideo.com
 r4.sn-p5qs7nel.googlevideo.com
 r4---sn-p5qs7nel.googlevideo.com
 r5.sn-25glen7y.googlevideo.com
