@@ -139,6 +139,8 @@ r3---sn-bg0eznll.googlevideo.com
 r3.sn-bg0eznlz.googlevideo.com
 r3---sn-bg0eznlz.googlevideo.com
 r3---sn-hp57kn6r.googlevideo.com
+r4.sn-ab5szn7s.googlevideo.com
+r4---sn-ab5szn7s.googlevideo.com
 r4.sn-ab5szne7.googlevideo.com
 r4---sn-ab5szne7.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
@@ -170,6 +172,8 @@ r4.sn-bg0eznle.googlevideo.com
 r4---sn-bg0eznle.googlevideo.com
 r4.sn-bg0eznlz.googlevideo.com
 r4---sn-bg0eznlz.googlevideo.com
+r4.sn-hp57knds.googlevideo.com
+r4---sn-hp57knds.googlevideo.com
 r4.sn-p5qs7nel.googlevideo.com
 r4---sn-p5qs7nel.googlevideo.com
 r5.sn-25glen7y.googlevideo.com
