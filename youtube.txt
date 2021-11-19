@@ -134,6 +134,8 @@ r3.sn-bg07dnzl.googlevideo.com
 r3---sn-bg07dnzl.googlevideo.com
 r3.sn-bg0ezn7e.googlevideo.com
 r3---sn-bg0ezn7e.googlevideo.com
+r3.sn-bg0ezn7y.googlevideo.com
+r3---sn-bg0ezn7y.googlevideo.com
 r3.sn-bg0ezn7z.googlevideo.com
 r3---sn-bg0ezn7z.googlevideo.com
 r3.sn-bg0ezne7.googlevideo.com
