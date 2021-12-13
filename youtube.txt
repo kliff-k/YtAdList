@@ -380,6 +380,7 @@ rr4.sn-bg07dnss.googlevideo.com
 rr4.sn-bg07dnsy.googlevideo.com
 rr4.sn-bg07dnzl.googlevideo.com
 rr4.sn-bg07dnzs.googlevideo.com
+rr4.sn-bg0ezn7y.googlevideo.com
 rr4.sn-bg0ezne7.googlevideo.com
 rr4.sn-bg0eznll.googlevideo.com
 rr4.sn-bg0eznls.googlevideo.com
