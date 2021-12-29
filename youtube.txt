@@ -2,10 +2,13 @@ r2.sn-bg0eznlz.googlevideo.com
 r2---sn-bg0eznlz.googlevideo.com
 r3.sn-25ge7nzs.googlevideo.com
 r3---sn-25ge7nzs.googlevideo.com
+r3.sn-5hnekn7s.googlevideo.com
+r3---sn-5hnekn7s.googlevideo.com
 r3.sn-q4fl6nsr.googlevideo.com
 r3---sn-q4fl6nsr.googlevideo.com
 r5.sn-4g5e6nzl.googlevideo.com
 r5---sn-4g5e6nzl.googlevideo.com
+r5---sn-a5mlrnek.googlevideo.com
 r5.sn-o097znze.googlevideo.com
 r5---sn-o097znze.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
