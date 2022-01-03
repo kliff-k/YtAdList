@@ -9,6 +9,8 @@ r1---sn-q4fl6nlz.googlevideo.com
 r2.sn-aigzrnld.googlevideo.com
 r2---sn-aigzrnld.googlevideo.com
 r2.sn-b8u-jfcs.googlevideo.com
+r2.sn-n4v7sn76.googlevideo.com
+r2---sn-n4v7sn76.googlevideo.com
 r2.sn-p5qs7nes.googlevideo.com
 r2---sn-p5qs7nes.googlevideo.com
 r3.sn-25glen7y.googlevideo.com
