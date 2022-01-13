@@ -8,8 +8,12 @@ r2.sn-p5qlsny6.googlevideo.com
 r2---sn-p5qlsny6.googlevideo.com
 r2.sn-q4fl6nsl.googlevideo.com
 r2---sn-q4fl6nsl.googlevideo.com
+r3.sn-25glenes.googlevideo.com
+r3---sn-25glenes.googlevideo.com
 r3.sn-5hnekn7l.googlevideo.com
 r3---sn-5hnekn7l.googlevideo.com
+r3.sn-p5qlsndz.googlevideo.com
+r3---sn-p5qlsndz.googlevideo.com
 r4.sn-4g5lzney.googlevideo.com
 r4---sn-4g5lzney.googlevideo.com
 r4.sn-a5mlrn7r.googlevideo.com
