@@ -7,6 +7,8 @@ r1.sn-hp57knz6.googlevideo.com
 r1---sn-hp57knz6.googlevideo.com
 r2.sn-25glene6.googlevideo.com
 r2---sn-25glene6.googlevideo.com
+r2.sn-q4fl6nlr.googlevideo.com
+r2---sn-q4fl6nlr.googlevideo.com
 r2.sn-q4fl6nsl.googlevideo.com
 r2---sn-q4fl6nsl.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
