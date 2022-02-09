@@ -10,10 +10,13 @@ r1.sn-vgqskns7.googlevideo.com
 r1---sn-vgqskns7.googlevideo.com
 r2.sn-a5msen7l.googlevideo.com
 r2---sn-a5msen7l.googlevideo.com
+r2.sn-b8u-jfcy.googlevideo.com
 r3.sn-aigzrney.googlevideo.com
 r3---sn-aigzrney.googlevideo.com
 r3.sn-bg07dnsr.googlevideo.com
 r3---sn-bg07dnsr.googlevideo.com
+r3.sn-hp57kn6y.googlevideo.com
+r3---sn-hp57kn6y.googlevideo.com
 r4.sn-ab5sznld.googlevideo.com
 r4---sn-ab5sznld.googlevideo.com
 r4.sn-p5qs7nek.googlevideo.com
