@@ -10,6 +10,8 @@ r1.sn-bg0eznek.googlevideo.com
 r1---sn-bg0eznek.googlevideo.com
 r2.sn-a5msen7l.googlevideo.com
 r2---sn-a5msen7l.googlevideo.com
+r2.sn-ab5l6ndy.googlevideo.com
+r2---sn-ab5l6ndy.googlevideo.com
 r2.sn-b8u-jfcy.googlevideo.com
 r3.sn-aigzrney.googlevideo.com
 r3---sn-aigzrney.googlevideo.com
