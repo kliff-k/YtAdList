@@ -3,6 +3,8 @@ r1---sn-25glen7l.googlevideo.com
 r1.sn-b8u-cncl.googlevideo.com
 r1.sn-bg07dnss.googlevideo.com
 r1---sn-bg07dnss.googlevideo.com
+r1.sn-p5qlsndz.googlevideo.com
+r1---sn-p5qlsndz.googlevideo.com
 r1.sn-q4flrn7r.googlevideo.com
 r1---sn-q4flrn7r.googlevideo.com
 r2.sn-25glenez.googlevideo.com
