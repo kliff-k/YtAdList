@@ -1,3 +1,4 @@
+r1.sn-b8u-cncs.googlevideo.com
 r1.sn-bg0eznlz.googlevideo.com
 r1---sn-bg0eznlz.googlevideo.com
 r2.sn-4g5e6nzl.googlevideo.com
@@ -19,6 +20,8 @@ r4.sn-a5msen7s.googlevideo.com
 r4---sn-a5msen7s.googlevideo.com
 r4.sn-aigl6ney.googlevideo.com
 r4---sn-aigl6ney.googlevideo.com
+r4.sn-q4fl6nsr.googlevideo.com
+r4---sn-q4fl6nsr.googlevideo.com
 r4.sn-vgqsknse.googlevideo.com
 r4---sn-vgqsknse.googlevideo.com
 r5.sn-5hnedn7e.googlevideo.com
