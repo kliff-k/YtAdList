@@ -20,6 +20,8 @@ r3.sn-bg07dnzs.googlevideo.com
 r3---sn-bg07dnzs.googlevideo.com
 r3.sn-hp57kn67.googlevideo.com
 r3---sn-hp57kn67.googlevideo.com
+r3.sn-q4fl6ns6.googlevideo.com
+r3---sn-q4fl6ns6.googlevideo.com
 r3.sn-q4flrnsl.googlevideo.com
 r3---sn-q4flrnsl.googlevideo.com
 r3.sn-vgqs7ns7.googlevideo.com
