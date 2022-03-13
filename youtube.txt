@@ -47,8 +47,12 @@ r5.sn-bg07dnsr.googlevideo.com
 r5---sn-bg07dnsr.googlevideo.com
 r5.sn-bg0ezn7l.googlevideo.com
 r5---sn-bg0ezn7l.googlevideo.com
+r5.sn-hp57knds.googlevideo.com
+r5---sn-hp57knds.googlevideo.com
 r5.sn-hp57yne7.googlevideo.com
 r5---sn-hp57yne7.googlevideo.com
+r5.sn-q4flrn7y.googlevideo.com
+r5---sn-q4flrn7y.googlevideo.com
 r5.sn-vgqsrnek.googlevideo.com
 r5---sn-vgqsrnek.googlevideo.com
 r6.sn-25glen7e.googlevideo.com
