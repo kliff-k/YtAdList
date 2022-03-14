@@ -6,6 +6,8 @@ r1.sn-p5qlsnrl.googlevideo.com
 r1---sn-p5qlsnrl.googlevideo.com
 r1.sn-vgqsrns6.googlevideo.com
 r1---sn-vgqsrns6.googlevideo.com
+r2.sn-4g5edns7.googlevideo.com
+r2---sn-4g5edns7.googlevideo.com
 r2.sn-bg07dn6r.googlevideo.com
 r2---sn-bg07dn6r.googlevideo.com
 r2.sn-bg0ezn7l.googlevideo.com
