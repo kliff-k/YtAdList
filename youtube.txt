@@ -35,6 +35,8 @@ r3.sn-vgqsknek.googlevideo.com
 r3---sn-vgqsknek.googlevideo.com
 r4.sn-4g5lznes.googlevideo.com
 r4---sn-4g5lznes.googlevideo.com
+r4.sn-q4flrnlz.googlevideo.com
+r4---sn-q4flrnlz.googlevideo.com
 r4.sn-vgqsknz7.googlevideo.com
 r4---sn-vgqsknz7.googlevideo.com
 r5.sn-25glene6.googlevideo.com
