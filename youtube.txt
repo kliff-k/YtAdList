@@ -17,10 +17,12 @@ r2---sn-q4fl6ner.googlevideo.com
 r2.sn-q4flrn7k.googlevideo.com
 r2---sn-q4flrn7k.googlevideo.com
 r2.sn-xnugxa5n-na1e.googlevideo.com
+r3.sn-b8u-cncz.googlevideo.com
 r3.sn-bg07dnkz.googlevideo.com
 r3---sn-bg07dnkz.googlevideo.com
 r3.sn-hp57kn67.googlevideo.com
 r3---sn-hp57kn67.googlevideo.com
+r4.sn-b8u-cncz.googlevideo.com
 r4.sn-q4flrnlz.googlevideo.com
 r4---sn-q4flrnlz.googlevideo.com
 r5.sn-ab5szn7k.googlevideo.com
