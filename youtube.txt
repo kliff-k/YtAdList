@@ -2,6 +2,8 @@ r1.sn-ab5l6ndr.googlevideo.com
 r1---sn-ab5l6ndr.googlevideo.com
 r1.sn-vgqsknld.googlevideo.com
 r1---sn-vgqsknld.googlevideo.com
+r1.sn-vgqsknls.googlevideo.com
+r1---sn-vgqsknls.googlevideo.com
 r2.sn-ab5l6nsy.googlevideo.com
 r2---sn-ab5l6nsy.googlevideo.com
 r2.sn-q4fl6nz7.googlevideo.com
