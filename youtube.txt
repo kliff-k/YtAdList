@@ -25,6 +25,7 @@ r4---sn-5hne6nsy.googlevideo.com
 r4.sn-ab5l6nzk.googlevideo.com
 r4---sn-ab5l6nzk.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
+r4.sn-b8u-cncz.googlevideo.com
 r4.sn-n4v7snee.googlevideo.com
 r4---sn-n4v7snee.googlevideo.com
 r5.sn-4g5e6ns7.googlevideo.com
@@ -49,8 +50,10 @@ rr1.sn-b8u-cncz.googlevideo.com
 rr1.sn-bg07dn66.googlevideo.com
 rr1.sn-bg07dn6d.googlevideo.com
 rr1.sn-bg07dn6k.googlevideo.com
+rr1.sn-bg07dn6l.googlevideo.com
 rr1.sn-bg07dn6r.googlevideo.com
 rr1.sn-bg07dnk6.googlevideo.com
+rr1.sn-bg07dnkd.googlevideo.com
 rr1.sn-bg07dnkk.googlevideo.com
 rr1.sn-bg07dnks.googlevideo.com
 rr1.sn-bg07dnky.googlevideo.com
