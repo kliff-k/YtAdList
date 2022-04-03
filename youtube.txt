@@ -20,6 +20,8 @@ r4.sn-4g5e6nze.googlevideo.com
 r4---sn-4g5e6nze.googlevideo.com
 r4.sn-5hne6nsy.googlevideo.com
 r4---sn-5hne6nsy.googlevideo.com
+r4.sn-a5mekn6z.googlevideo.com
+r4---sn-a5mekn6z.googlevideo.com
 r4.sn-ab5l6nzk.googlevideo.com
 r4---sn-ab5l6nzk.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
