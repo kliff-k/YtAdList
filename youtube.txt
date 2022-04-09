@@ -12,6 +12,8 @@ r3.sn-bg07dnss.googlevideo.com
 r3---sn-bg07dnss.googlevideo.com
 r3.sn-bg0ezn7e.googlevideo.com
 r3---sn-bg0ezn7e.googlevideo.com
+r4.sn-bg0ezn7s.googlevideo.com
+r4---sn-bg0ezn7s.googlevideo.com
 r4.sn-q4fl6nly.googlevideo.com
 r4---sn-q4fl6nly.googlevideo.com
 r5.sn-4g5e6nsr.googlevideo.com
