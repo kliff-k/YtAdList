@@ -36,6 +36,7 @@ rr1.sn-b8u-cncz.googlevideo.com
 rr1.sn-bg07dn66.googlevideo.com
 rr1.sn-bg07dn6k.googlevideo.com
 rr1.sn-bg07dnkd.googlevideo.com
+rr1.sn-bg07dnkr.googlevideo.com
 rr1.sn-bg07dnky.googlevideo.com
 rr1.sn-bg07dnkz.googlevideo.com
 rr1.sn-bg07dnr7.googlevideo.com
