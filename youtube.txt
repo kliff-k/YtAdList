@@ -30,8 +30,12 @@ r4.sn-vgqsknz7.googlevideo.com
 r4---sn-vgqsknz7.googlevideo.com
 r5.sn-4g5e6nsr.googlevideo.com
 r5---sn-4g5e6nsr.googlevideo.com
+r5.sn-5hne6nsd.googlevideo.com
+r5---sn-5hne6nsd.googlevideo.com
 r5.sn-ab5sznzd.googlevideo.com
 r5---sn-ab5sznzd.googlevideo.com
+r5.sn-aigl6n7d.googlevideo.com
+r5---sn-aigl6n7d.googlevideo.com
 r5.sn-hp57kn6l.googlevideo.com
 r5---sn-hp57kn6l.googlevideo.com
 r5.sn-hp57yn7r.googlevideo.com
