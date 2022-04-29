@@ -198,6 +198,7 @@ rr6.sn-b8u-cncl.googlevideo.com
 rr6.sn-bg07dnss.googlevideo.com
 rr6.sn-bg07dnz7.googlevideo.com
 rr6.sn-bg07dnze.googlevideo.com
+rr6.sn-bg07dnzs.googlevideo.com
 rr7.sn-b8u-cnc6.googlevideo.com
 rr7.sn-b8u-cnce.googlevideo.com
 rr7.sn-b8u-cncl.googlevideo.com
