@@ -5,6 +5,8 @@ r1.sn-b8u-cncz.googlevideo.com
 r1.sn-b8u-jfc6.googlevideo.com
 r1.sn-hp57ynsl.googlevideo.com
 r1---sn-hp57ynsl.googlevideo.com
+r1.sn-q4flrn7r.googlevideo.com
+r1---sn-q4flrn7r.googlevideo.com
 r1.sn-vgqsknlk.googlevideo.com
 r1---sn-vgqsknlk.googlevideo.com
 r2.sn-25glen7y.googlevideo.com
