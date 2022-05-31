@@ -55,10 +55,14 @@ r5---sn-a5mekn6s.googlevideo.com
 r5.sn-b8u-jfcl.googlevideo.com
 r5.sn-p5qs7nzk.googlevideo.com
 r5---sn-p5qs7nzk.googlevideo.com
+r5.sn-q4flrner.googlevideo.com
+r5---sn-q4flrner.googlevideo.com
 r5.sn-vgqsknlk.googlevideo.com
 r5---sn-vgqsknlk.googlevideo.com
 r5.sn-vgqsrnlk.googlevideo.com
 r5---sn-vgqsrnlk.googlevideo.com
+r5.sn-vgqsrnll.googlevideo.com
+r5---sn-vgqsrnll.googlevideo.com
 r6.sn-b8u-jfck.googlevideo.com
 r7.sn-b8u-jfcy.googlevideo.com
 r8.sn-b8u-jfcr.googlevideo.com
