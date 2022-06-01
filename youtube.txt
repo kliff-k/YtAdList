@@ -11,6 +11,7 @@ r1.sn-b8u-cncz.googlevideo.com
 r1.sn-q4fl6ns7.googlevideo.com
 r1---sn-q4fl6ns7.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
+r2.sn-b8u-cncz.googlevideo.com
 r2.sn-hp57kndk.googlevideo.com
 r2---sn-hp57kndk.googlevideo.com
 r2.sn-hp57knzz.googlevideo.com
