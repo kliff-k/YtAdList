@@ -10,6 +10,7 @@ r1.sn-b8u-cnc6.googlevideo.com
 r1.sn-b8u-cnce.googlevideo.com
 r1.sn-b8u-cncs.googlevideo.com
 r1.sn-b8u-cncz.googlevideo.com
+r1.sn-b8u-jfcz.googlevideo.com
 r1.sn-q4flrnel.googlevideo.com
 r1---sn-q4flrnel.googlevideo.com
 r2.sn-25glen7y.googlevideo.com
