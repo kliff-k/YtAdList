@@ -42,6 +42,8 @@ r4.sn-b8u-cncs.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
 r4.sn-hp57kn6l.googlevideo.com
 r4---sn-hp57kn6l.googlevideo.com
+r5.sn-5hne6nsk.googlevideo.com
+r5---sn-5hne6nsk.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-hp57ynes.googlevideo.com
 r5---sn-hp57ynes.googlevideo.com
