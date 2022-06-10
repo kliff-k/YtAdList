@@ -23,6 +23,8 @@ r2.sn-vgqs7nlr.googlevideo.com
 r2---sn-vgqs7nlr.googlevideo.com
 r3.sn-4g5ednd7.googlevideo.com
 r3---sn-4g5ednd7.googlevideo.com
+r3.sn-5hne6nzs.googlevideo.com
+r3---sn-5hne6nzs.googlevideo.com
 r3.sn-aigl6ned.googlevideo.com
 r3---sn-aigl6ned.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
