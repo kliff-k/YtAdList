@@ -60,6 +60,8 @@ r5.sn-5hne6nsk.googlevideo.com
 r5---sn-5hne6nsk.googlevideo.com
 r5.sn-a5msen7s.googlevideo.com
 r5---sn-a5msen7s.googlevideo.com
+r5.sn-aigzrn76.googlevideo.com
+r5---sn-aigzrn76.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r5.sn-o097znsk.googlevideo.com
 r5---sn-o097znsk.googlevideo.com
