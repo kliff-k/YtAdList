@@ -13,6 +13,8 @@ r2.sn-o097znsz.googlevideo.com
 r2---sn-o097znsz.googlevideo.com
 r2.sn-vgqsknsk.googlevideo.com
 r2---sn-vgqsknsk.googlevideo.com
+r3.sn-25glen7l.googlevideo.com
+r3---sn-25glen7l.googlevideo.com
 r3.sn-a5meknzl.googlevideo.com
 r3---sn-a5meknzl.googlevideo.com
 r3.sn-ab5sznzz.googlevideo.com
