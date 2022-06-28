@@ -99,6 +99,7 @@ r4.sn-b8u-cnc6.googlevideo.com
 r4.sn-b8u-cnce.googlevideo.com
 r4.sn-b8u-cncs.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
+r4.sn-b8u-jfcr.googlevideo.com
 r4.sn-bg07dnks.googlevideo.com
 r4---sn-bg07dnks.googlevideo.com
 r4.sn-bg07dnkz.googlevideo.com
