@@ -53,6 +53,8 @@ r5.sn-hp57kndr.googlevideo.com
 r5---sn-hp57kndr.googlevideo.com
 r5.sn-o097znsk.googlevideo.com
 r5---sn-o097znsk.googlevideo.com
+r5.sn-p5qs7nzr.googlevideo.com
+r5---sn-p5qs7nzr.googlevideo.com
 r6.sn-b8u-cnc6.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
 r6.sn-vgqs7nly.googlevideo.com
