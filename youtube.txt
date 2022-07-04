@@ -40,6 +40,8 @@ r3.sn-bg0eznll.googlevideo.com
 r3---sn-bg0eznll.googlevideo.com
 r3.sn-q4fl6nsy.googlevideo.com
 r3---sn-q4fl6nsy.googlevideo.com
+r3.sn-vgqsknlz.googlevideo.com
+r3---sn-vgqsknlz.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
 r4.sn-b8u-cnce.googlevideo.com
 r4.sn-b8u-cncs.googlevideo.com
