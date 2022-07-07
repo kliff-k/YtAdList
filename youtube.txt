@@ -15,6 +15,8 @@ r2.sn-bg07dnks.googlevideo.com
 r2---sn-bg07dnks.googlevideo.com
 r2.sn-p5qddn7d.googlevideo.com
 r2---sn-p5qddn7d.googlevideo.com
+r2.sn-vgqs7nly.googlevideo.com
+r2---sn-vgqs7nly.googlevideo.com
 r3.sn-4g5ednss.googlevideo.com
 r3---sn-4g5ednss.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
