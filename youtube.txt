@@ -1,6 +1,7 @@
 r1.sn-b8u-cnc6.googlevideo.com
 r1.sn-b8u-cnce.googlevideo.com
 r1.sn-b8u-cncs.googlevideo.com
+r1.sn-b8u-cncz.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
 r3.sn-b8u-cnce.googlevideo.com
 r3.sn-b8u-cncs.googlevideo.com
@@ -10,6 +11,8 @@ r3---sn-bg07dnks.googlevideo.com
 r3.sn-hp57kndr.googlevideo.com
 r3---sn-hp57kndr.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
+r4.sn-hp57kndk.googlevideo.com
+r4---sn-hp57kndk.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r6.sn-25ge7ns7.googlevideo.com
 r6---sn-25ge7ns7.googlevideo.com
