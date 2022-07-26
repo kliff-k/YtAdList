@@ -19,6 +19,7 @@ r3.sn-hp57kndr.googlevideo.com
 r3---sn-hp57kndr.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
 r4.sn-b8u-cnce.googlevideo.com
+r4.sn-b8u-cncs.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
 r4.sn-bg0eznzr.googlevideo.com
 r4---sn-bg0eznzr.googlevideo.com
