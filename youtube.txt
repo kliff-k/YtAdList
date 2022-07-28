@@ -31,6 +31,8 @@ r5---sn-5hne6nsz.googlevideo.com
 r5.sn-5hneknee.googlevideo.com
 r5---sn-5hneknee.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
+r5.sn-p5qlsndr.googlevideo.com
+r5---sn-p5qlsndr.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
 r7.sn-b8u-cnc6.googlevideo.com
 r7.sn-b8u-cnce.googlevideo.com
