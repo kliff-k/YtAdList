@@ -27,6 +27,8 @@ r3.sn-b8u-cncs.googlevideo.com
 r3.sn-b8u-cncz.googlevideo.com
 r3.sn-vgqskn76.googlevideo.com
 r3---sn-vgqskn76.googlevideo.com
+r3.sn-vgqsrnz7.googlevideo.com
+r3---sn-vgqsrnz7.googlevideo.com
 r4.sn-4g5edn6k.googlevideo.com
 r4---sn-4g5edn6k.googlevideo.com
 r4.sn-5hne6nzk.googlevideo.com
