@@ -86,6 +86,7 @@ rr2.sn-b8u-cncz.googlevideo.com
 rr2.sn-bg07dn6k.googlevideo.com
 rr2.sn-bg07dn6l.googlevideo.com
 rr2.sn-bg07dnkd.googlevideo.com
+rr2.sn-bg07dnkk.googlevideo.com
 rr2.sn-bg07dnkr.googlevideo.com
 rr2.sn-bg07dnks.googlevideo.com
 rr2.sn-bg07dnky.googlevideo.com
