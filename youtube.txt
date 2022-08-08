@@ -23,6 +23,8 @@ r4.sn-b8u-cncs.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
 r4.sn-n4v7snll.googlevideo.com
 r4---sn-n4v7snll.googlevideo.com
+r4.sn-p5qlsn76.googlevideo.com
+r4---sn-p5qlsn76.googlevideo.com
 r4.sn-p5qlsny6.googlevideo.com
 r4---sn-p5qlsny6.googlevideo.com
 r4.sn-vgqskne6.googlevideo.com
