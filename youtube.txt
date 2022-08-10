@@ -9,6 +9,8 @@ r2.sn-b8u-cncs.googlevideo.com
 r2.sn-b8u-cncz.googlevideo.com
 r2.sn-n4v7snee.googlevideo.com
 r2---sn-n4v7snee.googlevideo.com
+r2.sn-p5qlsnrr.googlevideo.com
+r2---sn-p5qlsnrr.googlevideo.com
 r3.sn-a5meknsd.googlevideo.com
 r3---sn-a5meknsd.googlevideo.com
 r3.sn-aigl6nze.googlevideo.com
