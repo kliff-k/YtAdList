@@ -106,6 +106,7 @@ rr2.sn-bg0eznls.googlevideo.com
 rr2.sn-bg0eznsk.googlevideo.com
 rr2.sn-bg0eznsr.googlevideo.com
 rr2.sn-bg0eznze.googlevideo.com
+rr2.sn-bg0eznzl.googlevideo.com
 rr3.sn-b8u-bpbe.googlevideo.com
 rr3.sn-b8u-bpbl.googlevideo.com
 rr3.sn-b8u-bpbs.googlevideo.com
