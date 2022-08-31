@@ -50,6 +50,7 @@ r5---sn-5hne6nzy.googlevideo.com
 r5.sn-a5mekndz.googlevideo.com
 r5---sn-a5mekndz.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
+r6.sn-b8u-cnc6.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
 r7.sn-b8u-cnc6.googlevideo.com
 r7.sn-b8u-cnce.googlevideo.com
