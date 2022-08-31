@@ -8,6 +8,8 @@ r1.sn-b8u-cncs.googlevideo.com
 r1.sn-b8u-cncz.googlevideo.com
 r1.sn-b8u-jfcd.googlevideo.com
 r1.sn-b8u-jfcr.googlevideo.com
+r1.sn-hp57ynlr.googlevideo.com
+r1---sn-hp57ynlr.googlevideo.com
 r1.sn-p5qlsny6.googlevideo.com
 r1---sn-p5qlsny6.googlevideo.com
 r1.sn-q4flrnez.googlevideo.com
