@@ -6,7 +6,6 @@ r1.sn-b8u-cnc6.googlevideo.com
 r1.sn-b8u-cnce.googlevideo.com
 r1.sn-b8u-cncs.googlevideo.com
 r1.sn-b8u-cncz.googlevideo.com
-r1.sn-b8u-jfcd.googlevideo.com
 r1.sn-hp57ynlr.googlevideo.com
 r1---sn-hp57ynlr.googlevideo.com
 r1.sn-p5qlsny6.googlevideo.com
@@ -17,7 +16,6 @@ r2.sn-a5mekndz.googlevideo.com
 r2---sn-a5mekndz.googlevideo.com
 r2.sn-a5msenek.googlevideo.com
 r2---sn-a5msenek.googlevideo.com
-r2.sn-b8u-cnc6.googlevideo.com
 r2.sn-b8u-cncs.googlevideo.com
 r2.sn-b8u-cncz.googlevideo.com
 r2.sn-b8u-jfce7.googlevideo.com
@@ -25,8 +23,6 @@ r2.sn-hp57knds.googlevideo.com
 r2---sn-hp57knds.googlevideo.com
 r2.sn-q4fl6nsr.googlevideo.com
 r2---sn-q4fl6nsr.googlevideo.com
-r3.sn-25glenld.googlevideo.com
-r3---sn-25glenld.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
 r3.sn-b8u-cnce.googlevideo.com
 r3.sn-b8u-cncs.googlevideo.com
@@ -52,8 +48,6 @@ r4.sn-q4flrnsk.googlevideo.com
 r4---sn-q4flrnsk.googlevideo.com
 r4.sn-vgqsrnel.googlevideo.com
 r4---sn-vgqsrnel.googlevideo.com
-r5.sn-5hne6nzy.googlevideo.com
-r5---sn-5hne6nzy.googlevideo.com
 r5.sn-a5mekndz.googlevideo.com
 r5---sn-a5mekndz.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
@@ -90,7 +84,6 @@ rr1.sn-bg0eznek.googlevideo.com
 rr1.sn-bg0eznle.googlevideo.com
 rr1.sn-bg0eznll.googlevideo.com
 rr1.sn-bg0eznls.googlevideo.com
-rr1.sn-bg0eznsk.googlevideo.com
 rr1.sn-bg0eznsy.googlevideo.com
 rr1.sn-bg0eznz7.googlevideo.com
 rr1.sn-bg0eznze.googlevideo.com
@@ -134,7 +127,6 @@ rr3.sn-b8u-cnc6.googlevideo.com
 rr3.sn-b8u-cnce.googlevideo.com
 rr3.sn-b8u-cncs.googlevideo.com
 rr3.sn-b8u-cncz.googlevideo.com
-rr3.sn-bg07dn66.googlevideo.com
 rr3.sn-bg07dn6d.googlevideo.com
 rr3.sn-bg07dn6r.googlevideo.com
 rr3.sn-bg07dnk6.googlevideo.com
@@ -147,12 +139,10 @@ rr3.sn-bg07dnrd.googlevideo.com
 rr3.sn-bg07dnre.googlevideo.com
 rr3.sn-bg07dnrk.googlevideo.com
 rr3.sn-bg07dnrl.googlevideo.com
-rr3.sn-bg07dnrs.googlevideo.com
 rr3.sn-bg0ezn7s.googlevideo.com
 rr3.sn-bg0ezn7y.googlevideo.com
 rr3.sn-bg0ezn7z.googlevideo.com
 rr3.sn-bg0eznle.googlevideo.com
-rr3.sn-bg0eznls.googlevideo.com
 rr3.sn-bg0eznlz.googlevideo.com
 rr3.sn-bg0eznsk.googlevideo.com
 rr3.sn-bg0eznsr.googlevideo.com
@@ -186,7 +176,6 @@ rr4.sn-bg0eznsy.googlevideo.com
 rr4.sn-bg0eznz7.googlevideo.com
 rr4.sn-bg0eznzr.googlevideo.com
 rr4.sn-q4fl6nlz.googlevideo.com
-rr5.sn-b8u-cnc6.googlevideo.com
 rr5.sn-b8u-cnce.googlevideo.com
 rr5.sn-bg07dn6d.googlevideo.com
 rr5.sn-bg07dn6k.googlevideo.com
@@ -205,7 +194,6 @@ rr5.sn-bg0ezn7s.googlevideo.com
 rr5.sn-bg0ezn7y.googlevideo.com
 rr5.sn-bg0eznek.googlevideo.com
 rr5.sn-bg0eznle.googlevideo.com
-rr5.sn-bg0eznll.googlevideo.com
 rr5.sn-bg0eznls.googlevideo.com
 rr5.sn-bg0eznlz.googlevideo.com
 rr5.sn-bg0eznsk.googlevideo.com
@@ -213,7 +201,6 @@ rr5.sn-bg0eznsr.googlevideo.com
 rr5.sn-bg0eznz7.googlevideo.com
 rr5.sn-bg0eznze.googlevideo.com
 rr5.sn-bg0eznzl.googlevideo.com
-rr5.sn-bg0eznzr.googlevideo.com
 rr5.sn-bg0eznzs.googlevideo.com
 rr6.sn-b8u-cnc6.googlevideo.com
 rr6.sn-b8u-cnce.googlevideo.com
