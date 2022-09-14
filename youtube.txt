@@ -33,6 +33,7 @@ r4---sn-a5msen76.googlevideo.com
 r4.sn-aigl6nsk.googlevideo.com
 r4---sn-aigl6nsk.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
+r4.sn-b8u-cnce.googlevideo.com
 r4.sn-b8u-cncs.googlevideo.com
 r4.sn-b8u-cncz.googlevideo.com
 r4.sn-b8u-jfcy.googlevideo.com
