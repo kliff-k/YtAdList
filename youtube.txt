@@ -48,6 +48,7 @@ r5---sn-5hneknee.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
 r6.sn-b8u-cnc6.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
+r6.sn-b8u-jfcd.googlevideo.com
 r6.sn-b8u-jfck.googlevideo.com
 r7.sn-b8u-cnc6.googlevideo.com
 r7.sn-b8u-cnce.googlevideo.com
@@ -134,6 +135,7 @@ rr4.sn-b8u-cncs.googlevideo.com
 rr4.sn-b8u-cncz.googlevideo.com
 rr4.sn-bg07dn66.googlevideo.com
 rr4.sn-bg07dn6k.googlevideo.com
+rr4.sn-bg07dn6l.googlevideo.com
 rr4.sn-bg07dnk6.googlevideo.com
 rr4.sn-bg07dnkd.googlevideo.com
 rr4.sn-bg07dnkr.googlevideo.com
