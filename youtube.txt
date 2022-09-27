@@ -19,14 +19,11 @@ r4.sn-ab5sznld.googlevideo.com
 r4---sn-ab5sznld.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
 r4.sn-b8u-cncs.googlevideo.com
-r4.sn-b8u-cncz.googlevideo.com
 r4.sn-bg0eznls.googlevideo.com
 r4---sn-bg0eznls.googlevideo.com
 r5.sn-a5meknzk.googlevideo.com
 r5---sn-a5meknzk.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
-r5.sn-hp57ynsl.googlevideo.com
-r5---sn-hp57ynsl.googlevideo.com
 r6.sn-b8u-cnc6.googlevideo.com
 r6.sn-b8u-cnce.googlevideo.com
 r7.sn-b8u-cnc6.googlevideo.com
