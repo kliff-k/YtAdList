@@ -48,6 +48,8 @@ r5.sn-5hneknes.googlevideo.com
 r5---sn-5hneknes.googlevideo.com
 r5.sn-ab5l6nrz.googlevideo.com
 r5---sn-ab5l6nrz.googlevideo.com
+r5.sn-ab5sznld.googlevideo.com
+r5---sn-ab5sznld.googlevideo.com
 r5.sn-aigl6nze.googlevideo.com
 r5---sn-aigl6nze.googlevideo.com
 r5.sn-b8u-cnce.googlevideo.com
