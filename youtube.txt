@@ -40,6 +40,8 @@ r4.sn-gpv7dne6.googlevideo.com
 r4---sn-gpv7dne6.googlevideo.com
 r4.sn-n4v7snee.googlevideo.com
 r4---sn-n4v7snee.googlevideo.com
+r4.sn-p5qs7nzy.googlevideo.com
+r4---sn-p5qs7nzy.googlevideo.com
 r5.sn-5hne6ns6.googlevideo.com
 r5---sn-5hne6ns6.googlevideo.com
 r5.sn-ab5l6nrz.googlevideo.com
