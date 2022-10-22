@@ -23,6 +23,8 @@ r2.sn-q4fzen7e.googlevideo.com
 r2---sn-q4fzen7e.googlevideo.com
 r3.sn-25ge7nsk.googlevideo.com
 r3---sn-25ge7nsk.googlevideo.com
+r3.sn-25glene6.googlevideo.com
+r3---sn-25glene6.googlevideo.com
 r3.sn-a5msenek.googlevideo.com
 r3---sn-a5msenek.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
