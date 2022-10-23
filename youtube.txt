@@ -138,6 +138,7 @@ rr4.sn-bg07dnre.googlevideo.com
 rr4.sn-bg07dnrl.googlevideo.com
 rr4.sn-bg0ezn7e.googlevideo.com
 rr4.sn-bg0eznek.googlevideo.com
+rr4.sn-bg0eznle.googlevideo.com
 rr4.sn-bg0eznlz.googlevideo.com
 rr4.sn-bg0eznsk.googlevideo.com
 rr4.sn-bg0eznsr.googlevideo.com
