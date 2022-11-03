@@ -5,6 +5,7 @@ r1---sn-5hnekn76.googlevideo.com
 r1.sn-b8u-cnce.googlevideo.com
 r1.sn-b8u-cncs.googlevideo.com
 r1.sn-b8u-cncz.googlevideo.com
+r1.sn-b8u-jfce7.googlevideo.com
 r1---sn-bg07dnkd.googlevideo.com
 r1.sn-gpv7kn76.googlevideo.com
 r1---sn-gpv7kn76.googlevideo.com
