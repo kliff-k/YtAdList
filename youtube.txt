@@ -25,6 +25,8 @@ r3---sn-q4flrn7r.googlevideo.com
 r4.sn-a5mekn6z.googlevideo.com
 r4---sn-a5mekn6z.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
+r4.sn-hp57kndr.googlevideo.com
+r4---sn-hp57kndr.googlevideo.com
 r5.sn-gpv7dned.googlevideo.com
 r5---sn-gpv7dned.googlevideo.com
 r5.sn-q4flrnel.googlevideo.com
