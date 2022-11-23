@@ -54,6 +54,7 @@ r5.sn-q4flrnsl.googlevideo.com
 r5---sn-q4flrnsl.googlevideo.com
 r7.sn-b8u-jfcd.googlevideo.com
 r7.sn-b8u-jfck.googlevideo.com
+r8.sn-b8u-jfcy.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-b8u-cnc6.googlevideo.com
