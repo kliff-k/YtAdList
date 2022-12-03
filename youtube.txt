@@ -1,6 +1,8 @@
 r1.sn-b8u-jfcy.googlevideo.com
 r1.sn-gpv7yn7l.googlevideo.com
 r1---sn-gpv7yn7l.googlevideo.com
+r1.sn-q4fl6nlz.googlevideo.com
+r1---sn-q4fl6nlz.googlevideo.com
 r2.sn-a5mekn6d.googlevideo.com
 r2---sn-a5mekn6d.googlevideo.com
 r2.sn-bg07dnks.googlevideo.com
