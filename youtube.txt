@@ -10,8 +10,6 @@ r2---sn-bg07dnks.googlevideo.com
 r2.sn-q4flrnsk.googlevideo.com
 r2---sn-q4flrnsk.googlevideo.com
 r3.sn-b8u-jfcy.googlevideo.com
-r4.sn-a5meknd6.googlevideo.com
-r4---sn-a5meknd6.googlevideo.com
 r4.sn-a5meknds.googlevideo.com
 r4---sn-a5meknds.googlevideo.com
 r4.sn-a5meknzr.googlevideo.com
