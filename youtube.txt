@@ -16,6 +16,7 @@ r3.sn-hp57ynly.googlevideo.com
 r3---sn-hp57ynly.googlevideo.com
 r4.sn-a5meknzr.googlevideo.com
 r4---sn-a5meknzr.googlevideo.com
+r4.sn-b8u-jfcr.googlevideo.com
 r4.sn-bg07dn6d.googlevideo.com
 r4---sn-bg07dn6d.googlevideo.com
 r4.sn-bg07dnrr.googlevideo.com
