@@ -44,6 +44,7 @@ rr1.sn-bg0eznzl.googlevideo.com
 rr2.sn-b8u-cnc6.googlevideo.com
 rr2.sn-bg07dn6l.googlevideo.com
 rr2.sn-bg07dn6r.googlevideo.com
+rr2.sn-bg07dnk6.googlevideo.com
 rr2.sn-bg07dnkd.googlevideo.com
 rr2.sn-bg07dnkk.googlevideo.com
 rr2.sn-bg07dnkz.googlevideo.com
