@@ -1,5 +1,7 @@
 r2.sn-gpv7dne6.googlevideo.com
 r2---sn-gpv7dne6.googlevideo.com
+r4.sn-a5mekn6k.googlevideo.com
+r4---sn-a5mekn6k.googlevideo.com
 r4.sn-hp57knd6.googlevideo.com
 r4---sn-hp57knd6.googlevideo.com
 r5.sn-bg0eznz7.googlevideo.com
