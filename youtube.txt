@@ -10,6 +10,8 @@ r2.sn-hp57knd6.googlevideo.com
 r2---sn-hp57knd6.googlevideo.com
 r2.sn-hp57yn7r.googlevideo.com
 r2---sn-hp57yn7r.googlevideo.com
+r2.sn-hp57ynee.googlevideo.com
+r2---sn-hp57ynee.googlevideo.com
 r2.sn-q4fl6nz7.googlevideo.com
 r2---sn-q4fl6nz7.googlevideo.com
 r2.sn-q4flrnss.googlevideo.com
