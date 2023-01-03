@@ -36,6 +36,8 @@ r4.sn-bg0ezne7.googlevideo.com
 r4---sn-bg0ezne7.googlevideo.com
 r4.sn-bg0eznlz.googlevideo.com
 r4---sn-bg0eznlz.googlevideo.com
+r4.sn-q4flrnez.googlevideo.com
+r4---sn-q4flrnez.googlevideo.com
 r4.sn-q4flrnsl.googlevideo.com
 r4---sn-q4flrnsl.googlevideo.com
 r4.sn-q4flrnss.googlevideo.com
