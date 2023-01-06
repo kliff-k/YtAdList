@@ -4,6 +4,8 @@ r2.sn-bg0eznsy.googlevideo.com
 r2---sn-bg0eznsy.googlevideo.com
 r2.sn-hp57ynss.googlevideo.com
 r2---sn-hp57ynss.googlevideo.com
+r3.sn-a5msenle.googlevideo.com
+r3---sn-a5msenle.googlevideo.com
 r3.sn-q4flrnez.googlevideo.com
 r3---sn-q4flrnez.googlevideo.com
 r4.sn-hp57ynly.googlevideo.com
