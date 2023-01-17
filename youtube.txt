@@ -1,6 +1,10 @@
 r1.sn-cg51pauxax-cncr.googlevideo.com
 r2.sn-gpv7kne7.googlevideo.com
 r2---sn-gpv7kne7.googlevideo.com
+r3.sn-5hnekn7z.googlevideo.com
+r3---sn-5hnekn7z.googlevideo.com
+r3.sn-hp57ynss.googlevideo.com
+r3---sn-hp57ynss.googlevideo.com
 r4.sn-bg07dnkk.googlevideo.com
 r4---sn-bg07dnkk.googlevideo.com
 r4.sn-bg0eznle.googlevideo.com
