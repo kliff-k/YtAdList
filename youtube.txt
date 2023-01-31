@@ -18,6 +18,8 @@ r3.sn-bg07dnr7.googlevideo.com
 r3---sn-bg07dnr7.googlevideo.com
 r3.sn-hp57kndr.googlevideo.com
 r3---sn-hp57kndr.googlevideo.com
+r3.sn-hp57ynee.googlevideo.com
+r3---sn-hp57ynee.googlevideo.com
 r3.sn-q4fl6n6d.googlevideo.com
 r3---sn-q4fl6n6d.googlevideo.com
 r4.sn-a5mekn6k.googlevideo.com
