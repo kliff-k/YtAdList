@@ -12,6 +12,8 @@ r2.sn-a5mekndl.googlevideo.com
 r2---sn-a5mekndl.googlevideo.com
 r2.sn-bg07dn6d.googlevideo.com
 r2---sn-bg07dn6d.googlevideo.com
+r2.sn-bg07dnrl.googlevideo.com
+r2---sn-bg07dnrl.googlevideo.com
 r2.sn-hp57ynl6.googlevideo.com
 r2---sn-hp57ynl6.googlevideo.com
 r2.sn-q4fl6n6z.googlevideo.com
