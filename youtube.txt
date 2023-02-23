@@ -37,6 +37,8 @@ r2.sn-bg07dnkr.googlevideo.com
 r2---sn-bg07dnkr.googlevideo.com
 r2.sn-bg07dnks.googlevideo.com
 r2---sn-bg07dnks.googlevideo.com
+r2.sn-bg07dnrd.googlevideo.com
+r2---sn-bg07dnrd.googlevideo.com
 r2.sn-bg07dnrk.googlevideo.com
 r2---sn-bg07dnrk.googlevideo.com
 r2.sn-bg07dnrl.googlevideo.com
