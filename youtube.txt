@@ -110,6 +110,8 @@ r3.sn-hp57knd6.googlevideo.com
 r3---sn-hp57knd6.googlevideo.com
 r3.sn-q4flrnee.googlevideo.com
 r3---sn-q4flrnee.googlevideo.com
+r3.sn-q4flrnlz.googlevideo.com
+r3---sn-q4flrnlz.googlevideo.com
 r4.sn-bg07dn6d.googlevideo.com
 r4---sn-bg07dn6d.googlevideo.com
 r4.sn-bg07dn6r.googlevideo.com
