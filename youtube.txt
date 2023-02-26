@@ -197,6 +197,8 @@ r5.sn-bg0eznzr.googlevideo.com
 r5---sn-bg0eznzr.googlevideo.com
 r5.sn-bg0eznzs.googlevideo.com
 r5---sn-bg0eznzs.googlevideo.com
+r5.sn-bg0eznzy.googlevideo.com
+r5---sn-bg0eznzy.googlevideo.com
 r5.sn-q4flrner.googlevideo.com
 r5---sn-q4flrner.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
