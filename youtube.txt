@@ -85,6 +85,8 @@ r4.sn-q4flrner.googlevideo.com
 r4---sn-q4flrner.googlevideo.com
 r5.sn-a5mekn6l.googlevideo.com
 r5---sn-a5mekn6l.googlevideo.com
+r5.sn-a5meknd6.googlevideo.com
+r5---sn-a5meknd6.googlevideo.com
 r5.sn-a5msen7s.googlevideo.com
 r5---sn-a5msen7s.googlevideo.com
 r5.sn-b8u-cnc6.googlevideo.com
