@@ -40,6 +40,8 @@ r2.sn-hp57ynlr.googlevideo.com
 r2---sn-hp57ynlr.googlevideo.com
 r2.sn-q4fl6n6d.googlevideo.com
 r2---sn-q4fl6n6d.googlevideo.com
+r2.sn-q4fl6ns7.googlevideo.com
+r2---sn-q4fl6ns7.googlevideo.com
 r2.sn-q4fl6nz7.googlevideo.com
 r2---sn-q4fl6nz7.googlevideo.com
 r2.sn-q4flrn7k.googlevideo.com
