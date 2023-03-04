@@ -2,6 +2,8 @@ r1.sn-a5mlrnek.googlevideo.com
 r1---sn-a5mlrnek.googlevideo.com
 r1.sn-a5msen76.googlevideo.com
 r1---sn-a5msen76.googlevideo.com
+r1.sn-a5msen7l.googlevideo.com
+r1---sn-a5msen7l.googlevideo.com
 r1.sn-bg07dn6l.googlevideo.com
 r1---sn-bg07dn6l.googlevideo.com
 r1.sn-bg07dnrd.googlevideo.com
