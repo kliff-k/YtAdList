@@ -105,6 +105,8 @@ r4.sn-gpv7yn7l.googlevideo.com
 r4---sn-gpv7yn7l.googlevideo.com
 r4.sn-hp57yns7.googlevideo.com
 r4---sn-hp57yns7.googlevideo.com
+r4.sn-hp57ynse.googlevideo.com
+r4---sn-hp57ynse.googlevideo.com
 r4.sn-q4fl6n6z.googlevideo.com
 r4---sn-q4fl6n6z.googlevideo.com
 r4.sn-q4fl6nsd.googlevideo.com
