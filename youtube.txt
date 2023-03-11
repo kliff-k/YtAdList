@@ -106,6 +106,8 @@ r5.sn-bg0eznlz.googlevideo.com
 r5---sn-bg0eznlz.googlevideo.com
 r5.sn-bg0eznsr.googlevideo.com
 r5---sn-bg0eznsr.googlevideo.com
+r5.sn-bg0eznzl.googlevideo.com
+r5---sn-bg0eznzl.googlevideo.com
 r5.sn-bg0eznzy.googlevideo.com
 r5---sn-bg0eznzy.googlevideo.com
 r5.sn-gpv7kn76.googlevideo.com
