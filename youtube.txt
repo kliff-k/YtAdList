@@ -10,6 +10,8 @@ r1.sn-bg07dnre.googlevideo.com
 r1---sn-bg07dnre.googlevideo.com
 r1.sn-bg0eznls.googlevideo.com
 r1---sn-bg0eznls.googlevideo.com
+r1.sn-bg0eznsk.googlevideo.com
+r1---sn-bg0eznsk.googlevideo.com
 r1.sn-bg0eznzl.googlevideo.com
 r1---sn-bg0eznzl.googlevideo.com
 r1.sn-hp57kndd.googlevideo.com
