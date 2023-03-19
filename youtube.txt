@@ -1,3 +1,5 @@
+r1.sn-a5meknsy.googlevideo.com
+r1---sn-a5meknsy.googlevideo.com
 r1.sn-a5msenl7.googlevideo.com
 r1---sn-a5msenl7.googlevideo.com
 r1.sn-bg07dnkd.googlevideo.com
@@ -192,6 +194,7 @@ rr4.sn-bg07dnky.googlevideo.com
 rr4.sn-bg07dnkz.googlevideo.com
 rr4.sn-bg07dnr7.googlevideo.com
 rr4.sn-bg07dnre.googlevideo.com
+rr4.sn-bg07dnrk.googlevideo.com
 rr4.sn-bg07dnrl.googlevideo.com
 rr4.sn-bg07dnrr.googlevideo.com
 rr4.sn-bg0eznek.googlevideo.com
