@@ -1,5 +1,7 @@
 r1.sn-a5meknsy.googlevideo.com
 r1---sn-a5meknsy.googlevideo.com
+r1.sn-bg07dnre.googlevideo.com
+r1---sn-bg07dnre.googlevideo.com
 r1.sn-bg0eznsr.googlevideo.com
 r1---sn-bg0eznsr.googlevideo.com
 r2.sn-bg07dnkz.googlevideo.com
