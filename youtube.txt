@@ -38,6 +38,10 @@ r3.sn-a5meknsy.googlevideo.com
 r3---sn-a5meknsy.googlevideo.com
 r3.sn-a5msen7l.googlevideo.com
 r3---sn-a5msen7l.googlevideo.com
+r3.sn-bg07dnr7.googlevideo.com
+r3---sn-bg07dnr7.googlevideo.com
+r3.sn-bg0eznls.googlevideo.com
+r3---sn-bg0eznls.googlevideo.com
 r3.sn-bg0eznsr.googlevideo.com
 r3---sn-bg0eznsr.googlevideo.com
 r3.sn-bg0eznsy.googlevideo.com
