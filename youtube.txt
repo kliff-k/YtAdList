@@ -86,6 +86,8 @@ r4.sn-a5meknzs.googlevideo.com
 r4---sn-a5meknzs.googlevideo.com
 r4.sn-a5msen76.googlevideo.com
 r4---sn-a5msen76.googlevideo.com
+r4.sn-a5msen7s.googlevideo.com
+r4---sn-a5msen7s.googlevideo.com
 r4.sn-a5msenek.googlevideo.com
 r4---sn-a5msenek.googlevideo.com
 r4.sn-bg0eznls.googlevideo.com
