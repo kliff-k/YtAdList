@@ -28,10 +28,14 @@ r2.sn-q4fl6nsl.googlevideo.com
 r2---sn-q4fl6nsl.googlevideo.com
 r2.sn-q4flrnes.googlevideo.com
 r2---sn-q4flrnes.googlevideo.com
+r3.sn-bg07dnrl.googlevideo.com
+r3---sn-bg07dnrl.googlevideo.com
 r3.sn-bg07dnrr.googlevideo.com
 r3---sn-bg07dnrr.googlevideo.com
 r3.sn-bg0eznek.googlevideo.com
 r3---sn-bg0eznek.googlevideo.com
+r3.sn-bg0eznle.googlevideo.com
+r3---sn-bg0eznle.googlevideo.com
 r3.sn-bg0eznsk.googlevideo.com
 r3---sn-bg0eznsk.googlevideo.com
 r3.sn-bg0eznzl.googlevideo.com
