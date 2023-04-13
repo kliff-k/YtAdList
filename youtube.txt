@@ -68,6 +68,8 @@ r4.sn-hp57ynsl.googlevideo.com
 r4---sn-hp57ynsl.googlevideo.com
 r4.sn-q4flrnez.googlevideo.com
 r4---sn-q4flrnez.googlevideo.com
+r4.sn-q4flrnsd.googlevideo.com
+r4---sn-q4flrnsd.googlevideo.com
 r5.sn-a5msenle.googlevideo.com
 r5---sn-a5msenle.googlevideo.com
 r5.sn-bg07dn6d.googlevideo.com
