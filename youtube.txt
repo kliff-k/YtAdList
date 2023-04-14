@@ -38,6 +38,8 @@ r4.sn-a5msenl7.googlevideo.com
 r4---sn-a5msenl7.googlevideo.com
 r4.sn-bg07dn6d.googlevideo.com
 r4---sn-bg07dn6d.googlevideo.com
+r4.sn-bg07dnrk.googlevideo.com
+r4---sn-bg07dnrk.googlevideo.com
 r4.sn-bg07dnrr.googlevideo.com
 r4---sn-bg07dnrr.googlevideo.com
 r4.sn-bg0ezn7z.googlevideo.com
