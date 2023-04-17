@@ -70,6 +70,8 @@ r5.sn-bg0eznlz.googlevideo.com
 r5---sn-bg0eznlz.googlevideo.com
 r5.sn-gpv7kn7d.googlevideo.com
 r5---sn-gpv7kn7d.googlevideo.com
+r5.sn-gpv7yn7l.googlevideo.com
+r5---sn-gpv7yn7l.googlevideo.com
 r5.sn-q4flrnsl.googlevideo.com
 r5---sn-q4flrnsl.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
