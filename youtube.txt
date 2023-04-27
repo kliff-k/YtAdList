@@ -103,6 +103,8 @@ r4.sn-q4fl6n6s.googlevideo.com
 r4---sn-q4fl6n6s.googlevideo.com
 r4.sn-q4flrnel.googlevideo.com
 r4---sn-q4flrnel.googlevideo.com
+r4.sn-q4flrnl7.googlevideo.com
+r4---sn-q4flrnl7.googlevideo.com
 r4.sn-q4flrnsk.googlevideo.com
 r4---sn-q4flrnsk.googlevideo.com
 r5.sn-a5meknde.googlevideo.com
