@@ -162,6 +162,7 @@ rr1.sn-bg0eznsy.googlevideo.com
 rr1.sn-bg0eznz7.googlevideo.com
 rr1.sn-bg0eznzl.googlevideo.com
 rr1.sn-bg0eznzs.googlevideo.com
+rr1.sn-bg0eznzy.googlevideo.com
 rr2.sn-5hnednss.googlevideo.com
 rr2.sn-5hneknes.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
