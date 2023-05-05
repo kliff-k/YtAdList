@@ -32,10 +32,14 @@ r3.sn-bg07dnk6.googlevideo.com
 r3---sn-bg07dnk6.googlevideo.com
 r3.sn-bg07dnrl.googlevideo.com
 r3---sn-bg07dnrl.googlevideo.com
+r3.sn-bg0eznsr.googlevideo.com
+r3---sn-bg0eznsr.googlevideo.com
 r3.sn-bg0eznz7.googlevideo.com
 r3---sn-bg0eznz7.googlevideo.com
 r3.sn-bg0eznzl.googlevideo.com
 r3---sn-bg0eznzl.googlevideo.com
+r3.sn-bg0eznzs.googlevideo.com
+r3---sn-bg0eznzs.googlevideo.com
 r3.sn-bg0eznzy.googlevideo.com
 r3---sn-bg0eznzy.googlevideo.com
 r3.sn-gpv7kn76.googlevideo.com
