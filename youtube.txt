@@ -9,12 +9,16 @@ r1.sn-bg07dnks.googlevideo.com
 r1---sn-bg07dnks.googlevideo.com
 r1.sn-bg07dnrs.googlevideo.com
 r1---sn-bg07dnrs.googlevideo.com
+r1.sn-bg0eznls.googlevideo.com
+r1---sn-bg0eznls.googlevideo.com
 r1.sn-bg0eznzl.googlevideo.com
 r1---sn-bg0eznzl.googlevideo.com
 r2.sn-bg07dn6l.googlevideo.com
 r2---sn-bg07dn6l.googlevideo.com
 r2.sn-bg07dnk6.googlevideo.com
 r2---sn-bg07dnk6.googlevideo.com
+r2.sn-bg07dnkz.googlevideo.com
+r2---sn-bg07dnkz.googlevideo.com
 r2.sn-bg0eznlz.googlevideo.com
 r2---sn-bg0eznlz.googlevideo.com
 r2.sn-bg0eznzr.googlevideo.com
