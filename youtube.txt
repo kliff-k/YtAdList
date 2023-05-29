@@ -130,6 +130,8 @@ r4.sn-bg0eznls.googlevideo.com
 r4---sn-bg0eznls.googlevideo.com
 r4.sn-bg0eznlz.googlevideo.com
 r4---sn-bg0eznlz.googlevideo.com
+r4.sn-bg0eznsk.googlevideo.com
+r4---sn-bg0eznsk.googlevideo.com
 r4.sn-bg0eznz7.googlevideo.com
 r4---sn-bg0eznz7.googlevideo.com
 r4.sn-bg0eznzr.googlevideo.com
