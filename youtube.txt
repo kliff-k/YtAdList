@@ -30,6 +30,8 @@ r2.sn-gpv7ynel.googlevideo.com
 r2---sn-gpv7ynel.googlevideo.com
 r2.sn-q4flrnel.googlevideo.com
 r2---sn-q4flrnel.googlevideo.com
+r2.sn-q4flrnez.googlevideo.com
+r2---sn-q4flrnez.googlevideo.com
 r2.sn-q4flrnld.googlevideo.com
 r2---sn-q4flrnld.googlevideo.com
 r3.sn-bg07dnkd.googlevideo.com
