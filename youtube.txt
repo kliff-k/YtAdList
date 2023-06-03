@@ -134,6 +134,7 @@ rr2.sn-bg07dnrr.googlevideo.com
 rr2.sn-bg07dnrs.googlevideo.com
 rr2.sn-bg0ezn7e.googlevideo.com
 rr2.sn-bg0ezn7l.googlevideo.com
+rr2.sn-bg0ezn7z.googlevideo.com
 rr2.sn-bg0eznls.googlevideo.com
 rr2.sn-bg0eznlz.googlevideo.com
 rr2.sn-bg0eznsr.googlevideo.com
