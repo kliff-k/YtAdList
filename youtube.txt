@@ -134,6 +134,7 @@ rr4.sn-b8u-cnce.googlevideo.com
 rr4.sn-bg07dn66.googlevideo.com
 rr4.sn-bg07dnkr.googlevideo.com
 rr4.sn-bg07dnks.googlevideo.com
+rr4.sn-bg07dnky.googlevideo.com
 rr4.sn-bg07dnrr.googlevideo.com
 rr4.sn-bg0eznsy.googlevideo.com
 rr4.sn-bg0eznze.googlevideo.com
