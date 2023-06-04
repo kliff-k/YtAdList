@@ -54,10 +54,14 @@ r4.sn-bg07dnkk.googlevideo.com
 r4---sn-bg07dnkk.googlevideo.com
 r4.sn-bg07dnr7.googlevideo.com
 r4---sn-bg07dnr7.googlevideo.com
+r4.sn-bg0eznz7.googlevideo.com
+r4---sn-bg0eznz7.googlevideo.com
 r4.sn-q4fl6n6z.googlevideo.com
 r4---sn-q4fl6n6z.googlevideo.com
 r4.sn-q4flrn7r.googlevideo.com
 r4---sn-q4flrn7r.googlevideo.com
+r5.sn-bg07dn66.googlevideo.com
+r5---sn-bg07dn66.googlevideo.com
 r5.sn-bg07dnkk.googlevideo.com
 r5---sn-bg07dnkk.googlevideo.com
 r5.sn-bg0ezn7e.googlevideo.com
