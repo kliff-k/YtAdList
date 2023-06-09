@@ -48,6 +48,8 @@ r2.sn-bg0eznzy.googlevideo.com
 r2---sn-bg0eznzy.googlevideo.com
 r2.sn-q4flrnl6.googlevideo.com
 r2---sn-q4flrnl6.googlevideo.com
+r3.sn-a5meknzs.googlevideo.com
+r3---sn-a5meknzs.googlevideo.com
 r3.sn-bg07dn6d.googlevideo.com
 r3---sn-bg07dn6d.googlevideo.com
 r3.sn-bg07dnkk.googlevideo.com
