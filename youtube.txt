@@ -48,6 +48,10 @@ r4.sn-a5msenes.googlevideo.com
 r4---sn-a5msenes.googlevideo.com
 r4.sn-a5msenle.googlevideo.com
 r4---sn-a5msenle.googlevideo.com
+r4.sn-bg07dn6k.googlevideo.com
+r4---sn-bg07dn6k.googlevideo.com
+r4.sn-bg07dnrl.googlevideo.com
+r4---sn-bg07dnrl.googlevideo.com
 r4.sn-gpv7kne7.googlevideo.com
 r4---sn-gpv7kne7.googlevideo.com
 r5.sn-a5mekn6l.googlevideo.com
