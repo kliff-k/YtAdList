@@ -26,6 +26,12 @@ r2.sn-q4fl6nz7.googlevideo.com
 r2---sn-q4fl6nz7.googlevideo.com
 r2.sn-q4flrnes.googlevideo.com
 r2---sn-q4flrnes.googlevideo.com
+r3.sn-bg07dnky.googlevideo.com
+r3---sn-bg07dnky.googlevideo.com
+r3.sn-bg07dnrs.googlevideo.com
+r3---sn-bg07dnrs.googlevideo.com
+r3.sn-bg0eznzr.googlevideo.com
+r3---sn-bg0eznzr.googlevideo.com
 r3.sn-gpv7yne6.googlevideo.com
 r3---sn-gpv7yne6.googlevideo.com
 r3.sn-q4fl6nd7.googlevideo.com
