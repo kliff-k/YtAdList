@@ -93,8 +93,12 @@ r3.sn-q4fl6n6d.googlevideo.com
 r3---sn-q4fl6n6d.googlevideo.com
 r4.sn-a5mekn6s.googlevideo.com
 r4---sn-a5mekn6s.googlevideo.com
+r4.sn-a5meknds.googlevideo.com
+r4---sn-a5meknds.googlevideo.com
 r4.sn-bg07dn6k.googlevideo.com
 r4---sn-bg07dn6k.googlevideo.com
+r4.sn-bg07dn6r.googlevideo.com
+r4---sn-bg07dn6r.googlevideo.com
 r4.sn-bg07dnkd.googlevideo.com
 r4---sn-bg07dnkd.googlevideo.com
 r4.sn-bg07dnkk.googlevideo.com
