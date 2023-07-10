@@ -117,6 +117,7 @@ rr1.sn-bg07dnrr.googlevideo.com
 rr1.sn-bg07dnrs.googlevideo.com
 rr1.sn-bg0ezn7s.googlevideo.com
 rr1.sn-bg0ezn7z.googlevideo.com
+rr1.sn-bg0ezne7.googlevideo.com
 rr1.sn-bg0eznsk.googlevideo.com
 rr1.sn-bg0eznsr.googlevideo.com
 rr1.sn-bg0eznzs.googlevideo.com
