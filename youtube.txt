@@ -18,6 +18,8 @@ r1.sn-gpv7kn7d.googlevideo.com
 r1---sn-gpv7kn7d.googlevideo.com
 r1.sn-q4fl6n6s.googlevideo.com
 r1---sn-q4fl6n6s.googlevideo.com
+r1.sn-q4fl6nsy.googlevideo.com
+r1---sn-q4fl6nsy.googlevideo.com
 r1.sn-q4flrn7y.googlevideo.com
 r1---sn-q4flrn7y.googlevideo.com
 r2.sn-a5mekndz.googlevideo.com
