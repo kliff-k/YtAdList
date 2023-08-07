@@ -8,6 +8,7 @@ r1.sn-q4flrnes.googlevideo.com
 r1---sn-q4flrnes.googlevideo.com
 r1.sn-q4fzen7s.googlevideo.com
 r1---sn-q4fzen7s.googlevideo.com
+r2.sn-b8u-btoe.googlevideo.com
 r2.sn-bg07dnrk.googlevideo.com
 r2---sn-bg07dnrk.googlevideo.com
 r2.sn-bg0ezn7s.googlevideo.com
