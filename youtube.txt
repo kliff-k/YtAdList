@@ -38,6 +38,8 @@ r3---sn-a5mlrnl6.googlevideo.com
 r3.sn-a5msener.googlevideo.com
 r3---sn-a5msener.googlevideo.com
 r3.sn-b8u-cnc6.googlevideo.com
+r3.sn-bg07dn6k.googlevideo.com
+r3---sn-bg07dn6k.googlevideo.com
 r3.sn-bg07dnr7.googlevideo.com
 r3---sn-bg07dnr7.googlevideo.com
 r3.sn-bg0ezn7z.googlevideo.com
