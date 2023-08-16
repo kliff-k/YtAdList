@@ -33,6 +33,8 @@ r2.sn-q4fzen7e.googlevideo.com
 r2---sn-q4fzen7e.googlevideo.com
 r3.sn-a5mekn6l.googlevideo.com
 r3---sn-a5mekn6l.googlevideo.com
+r3.sn-a5meknsy.googlevideo.com
+r3---sn-a5meknsy.googlevideo.com
 r3.sn-bg0ezne7.googlevideo.com
 r3---sn-bg0ezne7.googlevideo.com
 r3.sn-bg0eznll.googlevideo.com
