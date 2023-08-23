@@ -74,6 +74,8 @@ r5.sn-q4fl6nz7.googlevideo.com
 r5---sn-q4fl6nz7.googlevideo.com
 r5.sn-q4flrnek.googlevideo.com
 r5---sn-q4flrnek.googlevideo.com
+r5.sn-q4flrnsk.googlevideo.com
+r5---sn-q4flrnsk.googlevideo.com
 rr1.sn-b8u-cnc6.googlevideo.com
 rr1.sn-b8u-cnce.googlevideo.com
 rr1.sn-bg07dn6d.googlevideo.com
