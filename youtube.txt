@@ -206,6 +206,7 @@ rr4.sn-bg0ezne7.googlevideo.com
 rr4.sn-bg0eznek.googlevideo.com
 rr4.sn-bg0eznle.googlevideo.com
 rr4.sn-bg0eznll.googlevideo.com
+rr4.sn-bg0eznls.googlevideo.com
 rr4.sn-bg0eznlz.googlevideo.com
 rr4.sn-bg0eznsk.googlevideo.com
 rr4.sn-bg0eznsr.googlevideo.com
