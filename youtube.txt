@@ -66,6 +66,8 @@ r5.sn-bg07dn6d.googlevideo.com
 r5---sn-bg07dn6d.googlevideo.com
 r5.sn-bg07dnkz.googlevideo.com
 r5---sn-bg07dnkz.googlevideo.com
+r5.sn-bg0ezn7e.googlevideo.com
+r5---sn-bg0ezn7e.googlevideo.com
 r5.sn-q4fl6nsk.googlevideo.com
 r5---sn-q4fl6nsk.googlevideo.com
 r5.sn-q4flrnsk.googlevideo.com
