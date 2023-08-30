@@ -24,10 +24,14 @@ r3.sn-a5msenle.googlevideo.com
 r3---sn-a5msenle.googlevideo.com
 r3.sn-bg07dn6d.googlevideo.com
 r3---sn-bg07dn6d.googlevideo.com
+r3.sn-bg07dnre.googlevideo.com
+r3---sn-bg07dnre.googlevideo.com
 r3.sn-bg07dnrl.googlevideo.com
 r3---sn-bg07dnrl.googlevideo.com
 r3.sn-bg0eznle.googlevideo.com
 r3---sn-bg0eznle.googlevideo.com
+r3.sn-bg0eznze.googlevideo.com
+r3---sn-bg0eznze.googlevideo.com
 r3.sn-gpv7kn7y.googlevideo.com
 r3---sn-gpv7kn7y.googlevideo.com
 r4.sn-a5msen7z.googlevideo.com
