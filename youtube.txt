@@ -59,6 +59,8 @@ r4.sn-bg0eznzs.googlevideo.com
 r4---sn-bg0eznzs.googlevideo.com
 r4.sn-gpv7kn7d.googlevideo.com
 r4---sn-gpv7kn7d.googlevideo.com
+r4.sn-gpv7kne7.googlevideo.com
+r4---sn-gpv7kne7.googlevideo.com
 r4.sn-gpv7knee.googlevideo.com
 r4---sn-gpv7knee.googlevideo.com
 r4.sn-gpv7yn7e.googlevideo.com
