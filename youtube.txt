@@ -159,6 +159,7 @@ rr2.sn-bg0eznzy.googlevideo.com
 rr3.sn-b8u-cnc6.googlevideo.com
 rr3.sn-b8u-cnce.googlevideo.com
 rr3.sn-bg07dn6l.googlevideo.com
+rr3.sn-bg07dn6r.googlevideo.com
 rr3.sn-bg07dnkk.googlevideo.com
 rr3.sn-bg07dnr7.googlevideo.com
 rr3.sn-bg07dnrd.googlevideo.com
