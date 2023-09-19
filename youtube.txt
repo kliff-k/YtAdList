@@ -8,14 +8,14 @@ r1.sn-bg0eznle.googlevideo.com
 r1---sn-bg0eznle.googlevideo.com
 r1.sn-gpv7yn7e.googlevideo.com
 r1---sn-gpv7yn7e.googlevideo.com
-r1.sn-gpv7yne7.googlevideo.com
-r1---sn-gpv7yne7.googlevideo.com
 r1.sn-q4fl6nz7.googlevideo.com
 r1---sn-q4fl6nz7.googlevideo.com
 r2.sn-a5meknde.googlevideo.com
 r2---sn-a5meknde.googlevideo.com
 r2.sn-bg0eznek.googlevideo.com
 r2---sn-bg0eznek.googlevideo.com
+r2.sn-bg0eznsy.googlevideo.com
+r2---sn-bg0eznsy.googlevideo.com
 r2.sn-gpv7yn7e.googlevideo.com
 r2---sn-gpv7yn7e.googlevideo.com
 r2.sn-gpv7ynel.googlevideo.com
@@ -45,8 +45,6 @@ r3.sn-q4fl6nds.googlevideo.com
 r3---sn-q4fl6nds.googlevideo.com
 r4.sn-a5meknde.googlevideo.com
 r4---sn-a5meknde.googlevideo.com
-r4.sn-a5mekndz.googlevideo.com
-r4---sn-a5mekndz.googlevideo.com
 r4.sn-b8u-cnc6.googlevideo.com
 r4.sn-bg07dnrd.googlevideo.com
 r4---sn-bg07dnrd.googlevideo.com
@@ -54,8 +52,6 @@ r4.sn-gpv7yn7e.googlevideo.com
 r4---sn-gpv7yn7e.googlevideo.com
 r4.sn-q4fl6nsd.googlevideo.com
 r4---sn-q4fl6nsd.googlevideo.com
-r4.sn-q4fl6nzy.googlevideo.com
-r4---sn-q4fl6nzy.googlevideo.com
 r4.sn-q4flrnle.googlevideo.com
 r4---sn-q4flrnle.googlevideo.com
 r4.sn-q4flrnss.googlevideo.com
@@ -144,7 +140,6 @@ rr3.sn-b8u-cnce.googlevideo.com
 rr3.sn-bg07dn6k.googlevideo.com
 rr3.sn-bg07dn6l.googlevideo.com
 rr3.sn-bg07dn6r.googlevideo.com
-rr3.sn-bg07dnr7.googlevideo.com
 rr3.sn-bg07dnrd.googlevideo.com
 rr3.sn-bg07dnre.googlevideo.com
 rr3.sn-bg07dnrl.googlevideo.com
@@ -154,7 +149,6 @@ rr3.sn-bg0ezn7e.googlevideo.com
 rr3.sn-bg0ezn7l.googlevideo.com
 rr3.sn-bg0ezn7y.googlevideo.com
 rr3.sn-bg0ezn7z.googlevideo.com
-rr3.sn-bg0ezne7.googlevideo.com
 rr3.sn-bg0eznll.googlevideo.com
 rr3.sn-bg0eznls.googlevideo.com
 rr3.sn-bg0eznsk.googlevideo.com
@@ -188,7 +182,6 @@ rr4.sn-bg0eznsk.googlevideo.com
 rr4.sn-bg0eznsr.googlevideo.com
 rr4.sn-bg0eznsy.googlevideo.com
 rr4.sn-bg0eznz7.googlevideo.com
-rr4.sn-bg0eznze.googlevideo.com
 rr4.sn-bg0eznzl.googlevideo.com
 rr4.sn-bg0eznzr.googlevideo.com
 rr4.sn-bg0eznzs.googlevideo.com
