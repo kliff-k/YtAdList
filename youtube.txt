@@ -31,6 +31,8 @@ r2---sn-a5msenes.googlevideo.com
 r2.sn-b8u-cnc6.googlevideo.com
 r2.sn-bg07dn6l.googlevideo.com
 r2---sn-bg07dn6l.googlevideo.com
+r2.sn-gpv7ynel.googlevideo.com
+r2---sn-gpv7ynel.googlevideo.com
 r2.sn-q4fl6n6z.googlevideo.com
 r2---sn-q4fl6n6z.googlevideo.com
 r2.sn-q4fl6nd7.googlevideo.com
