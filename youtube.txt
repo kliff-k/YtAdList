@@ -25,6 +25,8 @@ r2.sn-bg07dnrr.googlevideo.com
 r2---sn-bg07dnrr.googlevideo.com
 r3.sn-a5mekn6z.googlevideo.com
 r3---sn-a5mekn6z.googlevideo.com
+r3.sn-a5mekndz.googlevideo.com
+r3---sn-a5mekndz.googlevideo.com
 r3.sn-a5mlrnek.googlevideo.com
 r3---sn-a5mlrnek.googlevideo.com
 r3.sn-a5msenl7.googlevideo.com
