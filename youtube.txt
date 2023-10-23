@@ -6,6 +6,8 @@ r3.sn-b8u-btoz.googlevideo.com
 r3.sn-b8u-cnce.googlevideo.com
 r4.sn-b8u-btoe.googlevideo.com
 r4.sn-b8u-btos.googlevideo.com
+r4.sn-bg0s7n7d.googlevideo.com
+r4---sn-bg0s7n7d.googlevideo.com
 r5.sn-b8u-btos.googlevideo.com
 r6.sn-b8u-btoe.googlevideo.com
 rr1.sn-b8u-cnc6.googlevideo.com
