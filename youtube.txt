@@ -66,6 +66,7 @@ rr3.sn-bg07dn6l.googlevideo.com
 rr3.sn-bg07dn6r.googlevideo.com
 rr3.sn-bg07dnr7.googlevideo.com
 rr3.sn-bg07dnrd.googlevideo.com
+rr3.sn-bg07dnre.googlevideo.com
 rr3.sn-bg07dnrl.googlevideo.com
 rr3.sn-bg07dnrs.googlevideo.com
 rr3.sn-bg0ezn7s.googlevideo.com
