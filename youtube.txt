@@ -65,6 +65,7 @@ rr4.sn-bg07dn6k.googlevideo.com
 rr4.sn-bg07dnr7.googlevideo.com
 rr4.sn-bg0eznek.googlevideo.com
 rr4.sn-bg0eznle.googlevideo.com
+rr4.sn-bg0eznls.googlevideo.com
 rr4.sn-bg0eznsk.googlevideo.com
 rr4.sn-bg0eznsy.googlevideo.com
 rr4.sn-bg0eznzl.googlevideo.com
