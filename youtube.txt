@@ -153,6 +153,7 @@ rr4.sn-bg0s7n7r.googlevideo.com
 rr4.sn-bg0s7n7s.googlevideo.com
 rr4.sn-bg0s7n7z.googlevideo.com
 rr4.sn-bg0s7nls.googlevideo.com
+rr4.sn-bg0s7ns7.googlevideo.com
 rr4.sn-t0a7sn7d.googlevideo.com
 rr5.sn-5hne6n6l.googlevideo.com
 rr5.sn-b8u-cnc6.googlevideo.com
