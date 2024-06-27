@@ -154,6 +154,7 @@ rr4.sn-bg0s7n7l.googlevideo.com
 rr4.sn-bg0s7n7r.googlevideo.com
 rr4.sn-bg0s7n7s.googlevideo.com
 rr4.sn-bg0s7n7z.googlevideo.com
+rr4.sn-bg0s7nl6.googlevideo.com
 rr4.sn-bg0s7nls.googlevideo.com
 rr4.sn-bg0s7ns7.googlevideo.com
 rr4.sn-t0a7sn7d.googlevideo.com
