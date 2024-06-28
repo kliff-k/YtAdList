@@ -123,6 +123,7 @@ rr3.sn-q4flrn7r.googlevideo.com
 rr4.sn-5hne6nzk.googlevideo.com
 rr4.sn-5hne6nzy.googlevideo.com
 rr4.sn-5hnekn7l.googlevideo.com
+rr4.sn-b8u-bpbl.googlevideo.com
 rr4.sn-b8u-cnc6.googlevideo.com
 rr4.sn-b8u-cnce.googlevideo.com
 rr4.sn-bg07dn6d.googlevideo.com
@@ -198,6 +199,7 @@ rr5.sn-bg0s7nls.googlevideo.com
 rr5.sn-hgn7yn76.googlevideo.com
 rr5.sn-q4fl6ndz.googlevideo.com
 rr5.sn-q4fl6nlz.googlevideo.com
+rr6.sn-b8u-bpbe.googlevideo.com
 rr6.sn-b8u-cnc6.googlevideo.com
 rr6.sn-b8u-cnce.googlevideo.com
 rr7.sn-b8u-cnc6.googlevideo.com
