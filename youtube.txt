@@ -130,8 +130,10 @@ rr3.sn-bg0s7n7s.googlevideo.com
 rr3.sn-bg0s7n7z.googlevideo.com
 rr3.sn-bg0s7nlk.googlevideo.com
 rr3.sn-bg0s7nls.googlevideo.com
+rr3.sn-q4fl6n6s.googlevideo.com
 rr3.sn-q4fl6nd7.googlevideo.com
 rr3.sn-q4flrn7r.googlevideo.com
+rr3.sn-q4flrnee.googlevideo.com
 rr3.sn-q4flrnes.googlevideo.com
 rr4.sn-5hne6nzk.googlevideo.com
 rr4.sn-5hne6nzy.googlevideo.com
