@@ -58,6 +58,7 @@ rr1.sn-q4flrnee.googlevideo.com
 rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
 rr2.sn-b8u-bpbe.googlevideo.com
+rr2.sn-b8u-bpbl.googlevideo.com
 rr2.sn-b8u-cnc6.googlevideo.com
 rr2.sn-bg07dn6d.googlevideo.com
 rr2.sn-bg07dn6l.googlevideo.com
