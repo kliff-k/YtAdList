@@ -155,6 +155,7 @@ rr3.sn-bg0s7n7r.googlevideo.com
 rr3.sn-bg0s7n7s.googlevideo.com
 rr3.sn-bg0s7n7z.googlevideo.com
 rr3.sn-bg0s7nl6.googlevideo.com
+rr3.sn-bg0s7nld.googlevideo.com
 rr3.sn-bg0s7nlk.googlevideo.com
 rr3.sn-bg0s7nlr.googlevideo.com
 rr3.sn-bg0s7nls.googlevideo.com
