@@ -18,6 +18,7 @@ rr3.sn-b8u-btoz.googlevideo.com
 rr3.sn-b8u-cnc6.googlevideo.com
 rr3.sn-bg0eznzl.googlevideo.com
 rr3.sn-bg0s7n76.googlevideo.com
+rr3.sn-bg0s7nld.googlevideo.com
 rr3.sn-bg0s7nlr.googlevideo.com
 rr3.sn-bg0s7nls.googlevideo.com
 rr4.sn-b8u-btoe.googlevideo.com
