@@ -1,3 +1,4 @@
+r2.sn-b8u-btoz.googlevideo.com
 rr1.sn-5hneknee.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
@@ -14,6 +15,7 @@ rr3.sn-bg0s7nlk.googlevideo.com
 rr3.sn-ntqe6nes.googlevideo.com
 rr4.sn-b8u-cnc6.googlevideo.com
 rr4.sn-b8u-cnce.googlevideo.com
+rr4.sn-bg0s7nlr.googlevideo.com
 rr5.sn-b8u-cnc6.googlevideo.com
 rr5.sn-b8u-cnce.googlevideo.com
 rr6.sn-b8u-cnc6.googlevideo.com
