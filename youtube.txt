@@ -18,6 +18,8 @@ r6.sn-b8u-cnce.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-bg0eznek.googlevideo.com
+rr1.sn-bg0eznls.googlevideo.com
+rr1.sn-bg0s7n76.googlevideo.com
 rr1.sn-bg0s7n7d.googlevideo.com
 rr1.sn-bg0s7n7r.googlevideo.com
 rr1.sn-bg0s7nse.googlevideo.com
