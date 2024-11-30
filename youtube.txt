@@ -4,5 +4,6 @@ r4.sn-bg0s7ns7.googlevideo.com
 r4---sn-bg0s7ns7.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
+rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
 rr2.sn-bg0ezn7e.googlevideo.com
