@@ -40,6 +40,7 @@ rr4.sn-bg0s7n7e.googlevideo.com
 rr4.sn-bg0s7n7k.googlevideo.com
 rr4.sn-bg0s7n7z.googlevideo.com
 rr5.sn-bg0ezne7.googlevideo.com
+rr5.sn-bg0eznsr.googlevideo.com
 rr5.sn-bg0eznsy.googlevideo.com
 rr5.sn-bg0eznz7.googlevideo.com
 rr5.sn-bg0s7n7k.googlevideo.com
