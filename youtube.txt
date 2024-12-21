@@ -32,10 +32,12 @@ rr3.sn-bg0s7nss.googlevideo.com
 rr4.sn-bg0e6n7d.googlevideo.com
 rr4.sn-bg0eznls.googlevideo.com
 rr4.sn-bg0eznlz.googlevideo.com
+rr4.sn-bg0eznsk.googlevideo.com
 rr4.sn-bg0eznz7.googlevideo.com
 rr4.sn-bg0eznze.googlevideo.com
 rr4.sn-bg0s7nld.googlevideo.com
 rr5.sn-bg0eznsy.googlevideo.com
 rr5.sn-bg0eznzy.googlevideo.com
+rr5.sn-bg0s7n7e.googlevideo.com
 rr5.sn-bg0s7nlr.googlevideo.com
 rr5.sn-bg0s7nls.googlevideo.com
