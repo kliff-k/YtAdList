@@ -1,3 +1,5 @@
+r2.sn-bg0eznlz.googlevideo.com
+r2---sn-bg0eznlz.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-bg0s7n7l.googlevideo.com
@@ -10,6 +12,7 @@ rr2.sn-bg0ezn7e.googlevideo.com
 rr2.sn-bg0eznzr.googlevideo.com
 rr2.sn-bg0s7nl6.googlevideo.com
 rr3.sn-bg0eznle.googlevideo.com
+rr3.sn-bg0eznll.googlevideo.com
 rr3.sn-bg0eznzl.googlevideo.com
 rr3.sn-bg0s7ns7.googlevideo.com
 rr3.sn-bg0s7nsl.googlevideo.com
