@@ -30,8 +30,10 @@ rr2.sn-bg0s7ns7.googlevideo.com
 rr3.sn-bg0s7nls.googlevideo.com
 rr3.sn-bg0s7ns7.googlevideo.com
 rr3.sn-oxunxg8pjvn-cncs.googlevideo.com
+rr4.sn-bg0eznze.googlevideo.com
 rr4.sn-bg0eznzl.googlevideo.com
 rr4.sn-bg0eznzr.googlevideo.com
+rr4.sn-bg0s7n7e.googlevideo.com
 rr4.sn-bg0s7n7k.googlevideo.com
 rr4.sn-bg0s7n7z.googlevideo.com
 rr5.sn-bg0eznsy.googlevideo.com
