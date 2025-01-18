@@ -7,8 +7,12 @@ r3.sn-bg0e6n7d.googlevideo.com
 r3---sn-bg0e6n7d.googlevideo.com
 r3.sn-bg0s7nld.googlevideo.com
 r3---sn-bg0s7nld.googlevideo.com
+r4.sn-bg0s7n7d.googlevideo.com
+r4---sn-bg0s7n7d.googlevideo.com
 r5.sn-bg0e6n7k.googlevideo.com
 r5---sn-bg0e6n7k.googlevideo.com
+r5.sn-bg0e6n7r.googlevideo.com
+r5---sn-bg0e6n7r.googlevideo.com
 r5.sn-bg0e6n7y.googlevideo.com
 r5---sn-bg0e6n7y.googlevideo.com
 r5.sn-bg0eznlz.googlevideo.com
