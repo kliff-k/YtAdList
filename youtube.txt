@@ -1,6 +1,12 @@
 r1.sn-b8u-btoe.googlevideo.com
+r1.sn-bg0eznz7.googlevideo.com
+r1---sn-bg0eznz7.googlevideo.com
 r2.sn-b8u-btoe.googlevideo.com
+r2.sn-bg0s7nl6.googlevideo.com
+r2---sn-bg0s7nl6.googlevideo.com
 r4.sn-b8u-cnce.googlevideo.com
+r5.sn-bg0s7nss.googlevideo.com
+r5---sn-bg0s7nss.googlevideo.com
 r6.sn-b8u-btoe.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
