@@ -33,6 +33,8 @@ rr3.sn-bg0eznzs.googlevideo.com
 rr3.sn-bg0eznzy.googlevideo.com
 rr3.sn-bg0s7nl6.googlevideo.com
 rr3.sn-bg0s7nly.googlevideo.com
+rr3.sn-bg0s7ns6.googlevideo.com
+rr4.sn-bg0e6nek.googlevideo.com
 rr4.sn-bg0s7n7e.googlevideo.com
 rr4.sn-bg0s7n7k.googlevideo.com
 rr4.sn-bg0s7nlr.googlevideo.com
