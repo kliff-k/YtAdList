@@ -2,6 +2,8 @@ r1.sn-gpv7knee.googlevideo.com
 r1---sn-gpv7knee.googlevideo.com
 r3.sn-bg0e6n7y.googlevideo.com
 r3---sn-bg0e6n7y.googlevideo.com
+r4.sn-bg0s7n7r.googlevideo.com
+r4---sn-bg0s7n7r.googlevideo.com
 r5.sn-bg0e6nez.googlevideo.com
 r5---sn-bg0e6nez.googlevideo.com
 r5.sn-gpv7kn76.googlevideo.com
