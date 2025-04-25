@@ -1,4 +1,12 @@
 r1.sn-b8u-btoe.googlevideo.com
+r4.sn-bg0e6ne6.googlevideo.com
+r4---sn-bg0e6ne6.googlevideo.com
+r4.sn-bg0s7n7l.googlevideo.com
+r4---sn-bg0s7n7l.googlevideo.com
+r4.sn-bg0s7n7z.googlevideo.com
+r4---sn-bg0s7n7z.googlevideo.com
+r4.sn-bg0s7nlk.googlevideo.com
+r4---sn-bg0s7nlk.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-bg0s7nly.googlevideo.com
