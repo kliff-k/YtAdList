@@ -15,6 +15,7 @@ rr2.sn-bg0s7nss.googlevideo.com
 rr3.sn-bg0s7n7d.googlevideo.com
 rr3.sn-bg0s7ns6.googlevideo.com
 rr4.sn-bg0e6ne7.googlevideo.com
+rr4.sn-bg0e6ned.googlevideo.com
 rr4.sn-bg0s7nlk.googlevideo.com
 rr5.sn-bg0s7n7s.googlevideo.com
 rr5.sn-bg0s7ns7.googlevideo.com
