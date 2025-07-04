@@ -7,6 +7,8 @@ r2.sn-bg0s7nsl.googlevideo.com
 r2---sn-bg0s7nsl.googlevideo.com
 r4.sn-bg0e6nle.googlevideo.com
 r4---sn-bg0e6nle.googlevideo.com
+r5.sn-bg0e6n7k.googlevideo.com
+r5---sn-bg0e6n7k.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-bg0e6n7d.googlevideo.com
@@ -30,6 +32,7 @@ rr2.sn-bg0s7nld.googlevideo.com
 rr3.sn-bg0e6ned.googlevideo.com
 rr3.sn-bg0s7n7e.googlevideo.com
 rr3.sn-bg0s7nl6.googlevideo.com
+rr3.sn-bg0s7nld.googlevideo.com
 rr3.sn-bg0s7ns6.googlevideo.com
 rr4.sn-bg0e6ne6.googlevideo.com
 rr4.sn-bg0e6nel.googlevideo.com
