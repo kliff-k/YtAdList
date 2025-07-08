@@ -201,6 +201,7 @@ rr3.sn-bg0s7nss.googlevideo.com
 rr4.sn-bg0e6n7r.googlevideo.com
 rr4.sn-bg0e6nek.googlevideo.com
 rr4.sn-bg0e6nls.googlevideo.com
+rr4.sn-bg0s7n7k.googlevideo.com
 rr4.sn-gpv7yne7.googlevideo.com
 rr5.sn-bg0e6ned.googlevideo.com
 rr5.sn-bg0s7n7z.googlevideo.com
