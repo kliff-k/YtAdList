@@ -16,6 +16,7 @@ rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
 rr2.sn-bg0e6ne6.googlevideo.com
 rr2.sn-bg0e6nez.googlevideo.com
+rr2.sn-bg0e6nlz.googlevideo.com
 rr2.sn-bg0s7n7r.googlevideo.com
 rr2.sn-bg0s7n7s.googlevideo.com
 rr2.sn-bg0s7ns6.googlevideo.com
