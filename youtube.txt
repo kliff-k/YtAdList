@@ -2,6 +2,7 @@ r1.sn-bg0s7n7s.googlevideo.com
 r1---sn-bg0s7n7s.googlevideo.com
 r1.sn-bg0s7nls.googlevideo.com
 r1---sn-bg0s7nls.googlevideo.com
+r2.sn-b8u-cnc6.googlevideo.com
 r2.sn-bg0s7n7s.googlevideo.com
 r2---sn-bg0s7n7s.googlevideo.com
 r3.sn-bg0s7nse.googlevideo.com
