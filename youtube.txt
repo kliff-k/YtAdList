@@ -4,6 +4,7 @@ r1.sn-bg0s7n7k.googlevideo.com
 r1---sn-bg0s7n7k.googlevideo.com
 r1.sn-bg0s7nse.googlevideo.com
 r1---sn-bg0s7nse.googlevideo.com
+r2.sn-b8u-bto6.googlevideo.com
 r2.sn-bg0e6nlz.googlevideo.com
 r2---sn-bg0e6nlz.googlevideo.com
 r2.sn-bg0s7n76.googlevideo.com
