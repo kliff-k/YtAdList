@@ -10,3 +10,4 @@ rr2.sn-bg0s7nls.googlevideo.com
 rr3.sn-bg0e6nez.googlevideo.com
 rr4.sn-bg0e6nlz.googlevideo.com
 rr5.sn-bg0e6nel.googlevideo.com
+rr5.sn-bg0s7nlr.googlevideo.com
