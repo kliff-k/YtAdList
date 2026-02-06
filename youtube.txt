@@ -2,4 +2,5 @@ rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
+rr3.sn-9uxa-qviee.googlevideo.com
 rr4.sn-bg0e6nls.googlevideo.com
