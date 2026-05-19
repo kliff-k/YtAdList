@@ -12,7 +12,9 @@ rr2.sn-bg0s7n76.googlevideo.com
 rr3.sn-bg0e6n7e.googlevideo.com
 rr3.sn-bg0e6ne6.googlevideo.com
 rr3.sn-bg0s7n7k.googlevideo.com
+rr4.sn-2obg05-ji.googlevideo.com
 rr4.sn-bg0e6n7r.googlevideo.com
+rr4.sn-bg0e6ne6.googlevideo.com
 rr4.sn-bg0e6ne7.googlevideo.com
 rr5.sn-2obg05-co.googlevideo.com
 rr5.sn-bg0e6ne7.googlevideo.com
