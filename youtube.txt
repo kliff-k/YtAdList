@@ -1,10 +1,12 @@
 r2.sn-2obg0c-qq.googlevideo.com
+r2.sn-tn.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-b8u-cncd.googlevideo.com
 rr1.sn-bg0e6n7k.googlevideo.com
 rr1.sn-bg0e6ned.googlevideo.com
 rr1.sn-bg0e6nez.googlevideo.com
+rr1.sn-bg0e6nll.googlevideo.com
 rr1.sn-bg0e6nls.googlevideo.com
 rr1.sn-bg0s7n7l.googlevideo.com
 rr1.sn-bg0s7nlr.googlevideo.com
