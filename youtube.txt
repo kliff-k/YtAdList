@@ -29,6 +29,7 @@ rr3.sn-bg0s7nls.googlevideo.com
 rr3.sn-u125g5-5q.googlevideo.com
 rr4.sn-25ge7nz6.googlevideo.com
 rr4.sn-25ge7nzr.googlevideo.com
+rr4.sn-bg0e6nek.googlevideo.com
 rr4.sn-bg0e6nls.googlevideo.com
 rr5.sn-25ge7nzd.googlevideo.com
 rr5.sn-25ge7nzk.googlevideo.com
@@ -36,5 +37,6 @@ rr5.sn-25ge7nzz.googlevideo.com
 rr5.sn-25glenez.googlevideo.com
 rr5.sn-2o25g5-55.googlevideo.com
 rr5.sn-2o25g5-5c.googlevideo.com
+rr5.sn-bg0e6nes.googlevideo.com
 rr5.sn-u125g5-5p.googlevideo.com
 rr5.sn-u125g5-5q.googlevideo.com
