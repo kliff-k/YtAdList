@@ -5,12 +5,17 @@ rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-b8u-cncd.googlevideo.com
 rr1.sn-bg0e6ner.googlevideo.com
 rr1.sn-bg0e6ney.googlevideo.com
+rr1.sn-bg0e6nez.googlevideo.com
 rr1.sn-u125g5-5p.googlevideo.com
+rr2.sn-25ge7nzk.googlevideo.com
 rr2.sn-2obg05-j3.googlevideo.com
 rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
 rr2.sn-b8u-cncd.googlevideo.com
 rr2.sn-bg0e6ner.googlevideo.com
 rr3.sn-25glenes.googlevideo.com
+rr3.sn-bg0e6nll.googlevideo.com
 rr3.sn-bg0s7nld.googlevideo.com
 rr4.sn-bg0s7n7s.googlevideo.com
+rr5.sn-bg0e6nee.googlevideo.com
+rr5.sn-bg0s7n76.googlevideo.com
