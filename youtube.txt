@@ -8,6 +8,7 @@ rr1.sn-25glenlz.googlevideo.com
 rr1.sn-2o25g5-5v.googlevideo.com
 rr1.sn-2obg05-jh.googlevideo.com
 rr1.sn-2obg05-ji.googlevideo.com
+rr1.sn-2obg0c-qq.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
 rr1.sn-b8u-cncd.googlevideo.com
@@ -70,9 +71,11 @@ rr5.sn-25ge7nzk.googlevideo.com
 rr5.sn-25glenez.googlevideo.com
 rr5.sn-25glenlz.googlevideo.com
 rr5.sn-2obg0c-qj.googlevideo.com
+rr5.sn-bg0e6n7e.googlevideo.com
 rr5.sn-bg0e6nel.googlevideo.com
 rr5.sn-bg0e6ner.googlevideo.com
 rr5.sn-bg0e6nll.googlevideo.com
+rr5.sn-bg0s7nls.googlevideo.com
 rr5.sn-u125g5-5i.googlevideo.com
 rr5.sn-u125g5-5p.googlevideo.com
 rr5.sn-u125g5-5q.googlevideo.com
