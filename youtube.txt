@@ -30,6 +30,7 @@ rr3.sn-bg0e6ner.googlevideo.com
 rr3.sn-bg0s7n7s.googlevideo.com
 rr3.sn-gpv7yne6.googlevideo.com
 rr4.sn-25ge7nsd.googlevideo.com
+rr4.sn-25ge7nz6.googlevideo.com
 rr4.sn-25ge7nzd.googlevideo.com
 rr4.sn-25ge7nzk.googlevideo.com
 rr4.sn-25ge7nzr.googlevideo.com
