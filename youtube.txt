@@ -2,6 +2,8 @@ r3.sn-bg0s7n7e.googlevideo.com
 r3---sn-bg0s7n7e.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
 rr1.sn-8p8v-cncl.googlevideo.com
+rr1.sn-q4flrnl6.googlevideo.com
 rr2.sn-8p8v-cnce.googlevideo.com
 rr2.sn-8p8v-cncl.googlevideo.com
 rr3.sn-xhcg5uxa-cnc6.googlevideo.com
+rr4.sn-xhcg5uxa-cncd.googlevideo.com
