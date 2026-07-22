@@ -6,4 +6,5 @@ rr2.sn-bg0e6nel.googlevideo.com
 rr3.sn-2obg05-co.googlevideo.com
 rr3.sn-2obg0c-qq.googlevideo.com
 rr4.sn-2obg05-co.googlevideo.com
+rr4.sn-bg0s7nlr.googlevideo.com
 rr5.sn-2obg0c-qj.googlevideo.com
