@@ -8,6 +8,7 @@ rr2.sn-bg0e6nls.googlevideo.com
 rr4.sn-2obg05-ji.googlevideo.com
 rr4.sn-bg0e6nel.googlevideo.com
 rr4.sn-bg0e6nl7.googlevideo.com
+rr5.sn-2obg05-ja.googlevideo.com
 rr5.sn-bg0e6n7d.googlevideo.com
 rr5.sn-bg0e6ne6.googlevideo.com
 rr5.sn-bg0s7n7r.googlevideo.com
