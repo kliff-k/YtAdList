@@ -1,4 +1,5 @@
 r1.sn-tn.googlevideo.com
+r2.sn-tn.googlevideo.com
 rr1.sn-2obg05-co.googlevideo.com
 rr1.sn-2obg05-ja.googlevideo.com
 rr1.sn-8p8v-cnce.googlevideo.com
