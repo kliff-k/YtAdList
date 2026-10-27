@@ -20,5 +20,7 @@ rr3.sn-u125g5-5b.googlevideo.com
 rr3.sn-u125g5-5i.googlevideo.com
 rr4.sn-25glene6.googlevideo.com
 rr4.sn-bg0s7nly.googlevideo.com
+rr4.sn-u125g5-5i.googlevideo.com
+rr5.sn-25glenes.googlevideo.com
 rr5.sn-bg0s7nls.googlevideo.com
 rr5.sn-bg0s7nly.googlevideo.com
