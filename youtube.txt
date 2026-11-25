@@ -14,4 +14,5 @@ rr4.sn-2obg05-jh.googlevideo.com
 rr4.sn-bg0e6nee.googlevideo.com
 rr4.sn-bg0s7nls.googlevideo.com
 rr5.sn-2obg05-c0.googlevideo.com
+rr5.sn-bg0e6ne6.googlevideo.com
 rr5.sn-bg0e6nel.googlevideo.com
